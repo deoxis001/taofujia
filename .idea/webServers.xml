@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f552b7e7-e83a-4091-b717-fe69a53e4a47" name="taofujia" url="http://58.221.65.89">
+        <fileTransfer host="58.221.65.89" port="21" rootFolder="/www.taofujia.com" password="dfc0dfc3dfc4dfcbdfc5dfd2dfdfdfc4" username="jinaoxun">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
