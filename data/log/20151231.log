@@ -1,0 +1,15 @@
+[2015-12-31 01:08:57] /shop/cate-482-0-1-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Unknown column 'goods_id' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `shopwwi_goods_common` WHERE ( gc_id_3 = '482' ) AND ( goods_id IN ('100093') ) LIMIT 1  
+[2015-12-31 06:30:07] /shop/cate-526-0-23-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Unknown column 'goods_id' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `shopwwi_goods_common` WHERE ( gc_id_3 = '526' ) AND ( goods_id IN ('100093','100096','100104','100118','100121') ) LIMIT 1  
+[2015-12-31 07:16:04] /shop/cate-110-0-0-0-0-0-1-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Unknown column 'have_gift' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `shopwwi_goods_common` WHERE ( gc_id_3 = '110' ) AND ( have_gift = '1' ) LIMIT 1  
+[2015-12-31 07:17:10] /shop/cate-497-137-25-0-0-0-0-10-0.html ( act=search&op=index ) 
+ERR: Db Error: Unknown column 'goods_id' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `shopwwi_goods_common` WHERE ( gc_id_3 = '497' ) AND ( brand_id = '137' ) AND ( areaid_1 = '10' ) AND ( goods_id IN ('100093','100094','100096','100097','100098','100099','100100','100102','100103','100104','100105','100106','100107','100108','100109','100110','100111','100113','100114','100115','100118','100120','100121','100123','100126','100127','100130','100131','100136','100137','100139','100140','100141','100142','100145','100146') ) LIMIT 1  
+[2015-12-31 08:08:15] /shop/cate-709-0-0-0-0-0-1-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Unknown column 'have_gift' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `shopwwi_goods_common` WHERE ( gc_id_3 = '709' ) AND ( have_gift = '1' ) LIMIT 1  

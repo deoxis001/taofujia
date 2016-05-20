@@ -1,0 +1,18 @@
+[2016-01-01 05:17:45] /shop/cate-521-0-16_25-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Unknown column 'goods_id' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `shopwwi_goods_common` WHERE ( gc_id_3 = '521' ) AND ( goods_id IN('') ) LIMIT 1  
+[2016-01-01 11:47:11] /shop/cate-481-131-11-0-0-0-0-21-0.html ( act=search&op=index ) 
+ERR: Db Error: Unknown column 'goods_id' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `shopwwi_goods_common` WHERE ( gc_id_3 = '481' ) AND ( brand_id = '131' ) AND ( areaid_1 = '21' ) AND ( goods_id IN ('100097') ) LIMIT 1  
+[2016-01-01 11:50:44] /shop/cate-506-120-6-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Unknown column 'goods_id' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `shopwwi_goods_common` WHERE ( gc_id_3 = '506' ) AND ( brand_id = '120' ) AND ( goods_id IN('') ) LIMIT 1  
+[2016-01-01 14:28:51] /shop/index.php?act=store_list&op=index ( act=store_list&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_order' doesn't exist
+SELECT store_id,count(*) as order_count FROM `shopwwi_order` WHERE ( store_id IN ('1','2') ) AND ( add_time > '1443853731' ) GROUP BY store_id LIMIT 1000  
+[2016-01-01 14:43:36] /shop/cate-523-130-9-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Unknown column 'goods_id' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `shopwwi_goods_common` WHERE ( gc_id_3 = '523' ) AND ( brand_id = '130' ) AND ( goods_id IN ('100095','100096','100103','100104','100106','100107','100108','100112','100113','100114','100118','100120','100121','100122','100123','100127','100131','100133','100134','100136','100137','100139','100141','100145','100146') ) LIMIT 1  
+[2016-01-01 15:45:15] /shop/cate-478-0-5-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Unknown column 'goods_id' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `shopwwi_goods_common` WHERE ( gc_id_3 = '478' ) AND ( goods_id IN ('100115','100118','100119','100133','100139') ) LIMIT 1  

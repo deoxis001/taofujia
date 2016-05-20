@@ -1,0 +1,6 @@
+[2016-03-22 14:21:30] /zhonghua/shop/index.php?act=search&op=index&cate_id=26&ci=1 ( act=search&op=index ) 
+ERR: Db Error: Unknown column 'contract_1' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `zgjjw_goods_common` WHERE ( gc_id_3 = '26' ) AND ( contract_1 = '1' ) LIMIT 1  
+[2016-03-22 14:21:37] /zhonghua/shop/index.php?act=search&op=index&cate_id=26&ci=1 ( act=search&op=index ) 
+ERR: Db Error: Unknown column 'contract_1' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `zgjjw_goods_common` WHERE ( gc_id_3 = '26' ) AND ( contract_1 = '1' ) LIMIT 1  

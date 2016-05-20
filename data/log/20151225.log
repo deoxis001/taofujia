@@ -1,0 +1,57 @@
+[2015-12-25 04:57:39] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle'
+SELECT circle.*, is_hot*rand() as rand FROM `shopwwi_circle` WHERE ( circle_status = '1' ) AND ( is_hot = '1' ) ORDER BY rand desc LIMIT 3  
+[2015-12-25 04:57:39] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle'
+SELECT circle.*, is_recommend*rand() as rand FROM `shopwwi_circle` WHERE ( circle_status = '1' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 20  
+[2015-12-25 04:57:39] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle_theme'
+SELECT circle_theme.*, is_recommend*rand() as rand FROM `shopwwi_circle_theme` WHERE ( has_affix = '1' ) AND ( is_closed = '0' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 8  
+[2015-12-25 04:57:39] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle_member'
+SELECT circle_member.*, is_recommend*rand() as rand FROM `shopwwi_circle_member` WHERE ( is_recommend = '1' ) ORDER BY rand desc LIMIT 5  
+[2015-12-25 13:02:45] /shop/cate-478-0-8-0-0-0-0-21-0.html ( act=search&op=index ) 
+ERR: Db Error: Unknown column 'goods_id' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `shopwwi_goods_common` WHERE ( gc_id_3 = '478' ) AND ( areaid_1 = '21' ) AND ( goods_id IN ('100093','100094','100097','100098','100099','100100','100101','100102','100105','100109','100110','100111','100115','100116','100117','100119','100124','100126','100128','100129','100132','100135','100140','100142') ) LIMIT 1  
+[2015-12-25 13:02:50] /shop/cate-478-0-8_14-0-0-0-0-21-0.html ( act=search&op=index ) 
+ERR: Db Error: Unknown column 'goods_id' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `shopwwi_goods_common` WHERE ( gc_id_3 = '478' ) AND ( areaid_1 = '21' ) AND ( goods_id IN ('100111','100128','100142') ) LIMIT 1  
+[2015-12-25 13:02:54] /shop/cate-478-0-8_14_1-0-0-0-0-21-0.html ( act=search&op=index ) 
+ERR: Db Error: Unknown column 'goods_id' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `shopwwi_goods_common` WHERE ( gc_id_3 = '478' ) AND ( areaid_1 = '21' ) AND ( goods_id IN('') ) LIMIT 1  
+[2015-12-25 13:04:10] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle'
+SELECT circle.*, is_hot*rand() as rand FROM `shopwwi_circle` WHERE ( circle_status = '1' ) AND ( is_hot = '1' ) ORDER BY rand desc LIMIT 3  
+[2015-12-25 13:04:10] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle'
+SELECT circle.*, is_recommend*rand() as rand FROM `shopwwi_circle` WHERE ( circle_status = '1' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 20  
+[2015-12-25 13:04:10] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle_theme'
+SELECT circle_theme.*, is_recommend*rand() as rand FROM `shopwwi_circle_theme` WHERE ( has_affix = '1' ) AND ( is_closed = '0' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 8  
+[2015-12-25 13:04:10] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle_member'
+SELECT circle_member.*, is_recommend*rand() as rand FROM `shopwwi_circle_member` WHERE ( is_recommend = '1' ) ORDER BY rand desc LIMIT 5  
+[2015-12-25 15:39:45] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle'
+SELECT circle.*, is_hot*rand() as rand FROM `shopwwi_circle` WHERE ( circle_status = '1' ) AND ( is_hot = '1' ) ORDER BY rand desc LIMIT 3  
+[2015-12-25 15:39:45] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle'
+SELECT circle.*, is_recommend*rand() as rand FROM `shopwwi_circle` WHERE ( circle_status = '1' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 20  
+[2015-12-25 15:39:45] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle_theme'
+SELECT circle_theme.*, is_recommend*rand() as rand FROM `shopwwi_circle_theme` WHERE ( has_affix = '1' ) AND ( is_closed = '0' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 8  
+[2015-12-25 15:39:45] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle_member'
+SELECT circle_member.*, is_recommend*rand() as rand FROM `shopwwi_circle_member` WHERE ( is_recommend = '1' ) ORDER BY rand desc LIMIT 5  
+[2015-12-25 22:52:06] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle'
+SELECT circle.*, is_hot*rand() as rand FROM `shopwwi_circle` WHERE ( circle_status = '1' ) AND ( is_hot = '1' ) ORDER BY rand desc LIMIT 3  
+[2015-12-25 22:52:06] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle'
+SELECT circle.*, is_recommend*rand() as rand FROM `shopwwi_circle` WHERE ( circle_status = '1' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 20  
+[2015-12-25 22:52:06] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle_theme'
+SELECT circle_theme.*, is_recommend*rand() as rand FROM `shopwwi_circle_theme` WHERE ( has_affix = '1' ) AND ( is_closed = '0' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 8  
+[2015-12-25 22:52:06] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle_member'
+SELECT circle_member.*, is_recommend*rand() as rand FROM `shopwwi_circle_member` WHERE ( is_recommend = '1' ) ORDER BY rand desc LIMIT 5  

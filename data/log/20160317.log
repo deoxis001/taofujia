@@ -1,0 +1,2010 @@
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'棉衣')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'毛呢大衣')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'风衣')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'打底衫')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'情侣装')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'毛呢短裤')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'牛仔裤')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'加绒打底裤')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'小脚裤')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'半身裙')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'毛呢连衣裙')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'长袖连衣裙')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'羽绒服')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'卫衣')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'长袖T恤')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'长袖衬衫')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'品质秋冬外套')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'风衣')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'休闲西装')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'棉衣')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'休闲长裤')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'内衣内裤')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'保暖内衣')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'保暖打底裤')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'秋冬睡衣')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'珊瑚绒睡衣')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'塑身内衣')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'文胸套装')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'文胸')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'内裤')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'袜子')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'连裤袜')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'棉袜')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('2',NULL,'')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'单肩包')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'手提包')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'斜挎包')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'多功能包')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'双肩包')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'旅行箱')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'男包')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'电脑数码包')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'真皮包')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'钱包/卡套')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'秋季新款')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'商城精品')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'舒适男鞋')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'保暖必备')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'冬靴来了')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'短靴踝靴')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'中筒靴')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'雪地靴')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'单鞋')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'经典中跟')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'显腿瘦高跟')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'舒适平跟')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'帆布鞋')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'爆潮厚底鞋')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'休闲鞋')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'凉鞋清仓')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('3',NULL,'')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'面膜')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'洁面')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'爽肤水')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'面霜/乳液')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'护肤套装')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'面部精华')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'喷雾')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'隔离/防晒')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'眼霜')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'润唇膏')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'T区护理')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'卸妆')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'睫毛膏')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'粉底液')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'粉饼')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'眼线')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'唇彩')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'眼影')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'指甲油')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'男士洁面')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'男士乳液')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'男士爽肤水')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'男士套装')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('4',NULL,'')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'板鞋')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'休闲鞋')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'篮球鞋')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'帆布鞋')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'跑步鞋')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'足球鞋')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'网球鞋')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'训练鞋')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'套装')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'运动裤/裙')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'颈环/手环')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'夹克')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'运动包')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'运动风衣')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'休闲裤')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'运动配件')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'运动POLO')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'针织衫')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'户外鞋')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'户外服装')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'垂钓用品')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'服饰配件')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'户外军品')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'望远镜')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'工具/眼镜')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'户外手电筒')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'自行车')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'户外包袋')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'水上用品')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'生存用具')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('5',NULL,'')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'iphone4')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'iPhone4s')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'ME525')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'导航手机')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'手机配件')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'三星/手机')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'3G/智能')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'摩托罗拉')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'NOKIA')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'HTC')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'htc/G13')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'卡片机')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'单反')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'摄像机')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'佳能')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'团I3独显本')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'联想')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'苹果')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'华硕')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'惠普')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'宏基')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'戴尔')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'索尼')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'东芝')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'三星')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'神舟')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('6',NULL,'')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'床品套件')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'春夏被')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'保健枕')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'蚊帐')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'收纳整理')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'家务清洁')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'洗晒用具')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'卫浴用具')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'个人护理')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'雨伞雨具')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'驱蚊驱虫')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'居家杂货')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'烹饪锅具')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'烹饪勺铲')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'调味瓶罐')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'厨房帮手')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'保鲜盒')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'餐具')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'水杯水壶')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'茶具')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'沙发')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'茶几')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('7',NULL,'')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'鸭脖')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'鸭舌')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'鸡翅')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'牛肉干')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'猪肉脯')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'猪肉松')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'糖果')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'鱿鱼丝')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'饼干糕点')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'龙井')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'碧螺春')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'铁观音')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'红茶')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'普洱')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'花草茶')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'水果茶')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'保健茶')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'芒果干')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'葡萄干')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'梅类')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'菠萝干')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'草莓干')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'香蕉干')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'玫瑰脯')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'蓝莓')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('8',NULL,'')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'配方奶粉')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'羊奶粉')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'辅食')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'营养品')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'纸尿裤')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'奶瓶')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'布尿裤')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'湿巾/纸巾')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'睡袋/蚊帐')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'抱被/毛毯')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'洗浴护肤')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'水杯/水壶')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'衣物清洗')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'套装')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'T恤')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'连衣裙')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'半截裙')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'休闲裤')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'凉鞋')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'运动鞋')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'帆布鞋')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'内衣裤')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'帽子/配件')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'亲子装')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('9',NULL,'')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'GPS导航')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'充电器')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'车载影音')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'加热保温')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'座垫/座套')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'脚垫')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'专车专用')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'摩托车相关')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'外部装饰')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'汽车香水')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'改装配件')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'测速电子狗')
+[2016-03-17 13:51:11] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'汽车保险')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'鲜花速递')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'礼品定制')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'绿植园艺')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'乐器')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'书籍')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'考试')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'计算机图书')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'期刊杂志')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'小说')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'漫画')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'CD/DVD')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'少儿图书')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'养生图书')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'艺术图书')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'励志图书')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('10',NULL,'')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'话费直充')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'移动充值卡')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'联通充值卡')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'电信充值卡')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'固话充值卡')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'IP卡')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'网络电话')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'手机号码卡')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'双色球')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'大乐透')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'七星彩')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'七乐彩')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'福彩3D')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'排列三')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'排列五')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'22选5')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'旅行意外险')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'自驾意外险')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'家庭财产险')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'老人骨折险')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'家财火宅险')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'车险')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'Q币充值')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'Q点充值')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'QQ卡')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'超级QQ')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'QQ会员')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'红钻')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'黄钻')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'绿钻')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'蓝钻')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'DNF黑钻')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'CF会员')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'音速紫钻')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('11',NULL,'')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'国内机票')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'国内酒店')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'酒店团购')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'演出门票')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'话剧歌剧')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'演唱会')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'音乐会')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'景区门票')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'温泉')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'主题乐园')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'四折电影票')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'折扣活动')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'免费抢票')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'旅行意外险')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'自驾意外险')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'家庭财产险')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'老人骨折险')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'家财火宅险')
+[2016-03-17 13:51:12] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'车险')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'棉衣')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'毛呢大衣')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'风衣')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'打底衫')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'情侣装')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'毛呢短裤')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'牛仔裤')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'加绒打底裤')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'小脚裤')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'半身裙')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'毛呢连衣裙')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'长袖连衣裙')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'羽绒服')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'卫衣')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'长袖T恤')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'长袖衬衫')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'品质秋冬外套')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'风衣')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'休闲西装')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'棉衣')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'休闲长裤')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'内衣内裤')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'保暖内衣')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'保暖打底裤')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'秋冬睡衣')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'珊瑚绒睡衣')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'塑身内衣')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'文胸套装')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'文胸')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'内裤')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'袜子')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'连裤袜')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'棉袜')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('2',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'单肩包')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'手提包')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'斜挎包')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'多功能包')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'双肩包')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'旅行箱')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'男包')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'电脑数码包')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'真皮包')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'钱包/卡套')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'秋季新款')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'商城精品')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'舒适男鞋')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'保暖必备')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'冬靴来了')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'短靴踝靴')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'中筒靴')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'雪地靴')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'单鞋')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'经典中跟')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'显腿瘦高跟')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'舒适平跟')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'帆布鞋')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'爆潮厚底鞋')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'休闲鞋')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'凉鞋清仓')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('3',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'面膜')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'洁面')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'爽肤水')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'面霜/乳液')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'护肤套装')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'面部精华')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'喷雾')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'隔离/防晒')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'眼霜')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'润唇膏')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'T区护理')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'卸妆')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'睫毛膏')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'粉底液')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'粉饼')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'眼线')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'唇彩')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'眼影')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'指甲油')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'男士洁面')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'男士乳液')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'男士爽肤水')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'男士套装')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('4',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'板鞋')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'休闲鞋')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'篮球鞋')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'帆布鞋')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'跑步鞋')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'足球鞋')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'网球鞋')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'训练鞋')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'套装')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'运动裤/裙')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'颈环/手环')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'夹克')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'运动包')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'运动风衣')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'休闲裤')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'运动配件')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'运动POLO')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'针织衫')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'户外鞋')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'户外服装')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'垂钓用品')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'服饰配件')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'户外军品')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'望远镜')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'工具/眼镜')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'户外手电筒')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'自行车')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'户外包袋')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'水上用品')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'生存用具')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('5',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'iphone4')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'iPhone4s')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'ME525')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'导航手机')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'手机配件')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'三星/手机')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'3G/智能')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'摩托罗拉')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'NOKIA')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'HTC')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'htc/G13')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'卡片机')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'单反')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'摄像机')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'佳能')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'团I3独显本')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'联想')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'苹果')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'华硕')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'惠普')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'宏基')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'戴尔')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'索尼')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'东芝')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'三星')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'神舟')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('6',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'床品套件')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'春夏被')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'保健枕')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'蚊帐')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'收纳整理')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'家务清洁')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'洗晒用具')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'卫浴用具')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'个人护理')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'雨伞雨具')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'驱蚊驱虫')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'居家杂货')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'烹饪锅具')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'烹饪勺铲')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'调味瓶罐')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'厨房帮手')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'保鲜盒')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'餐具')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'水杯水壶')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'茶具')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'沙发')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'茶几')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('7',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'鸭脖')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'鸭舌')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'鸡翅')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'牛肉干')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'猪肉脯')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'猪肉松')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'糖果')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'鱿鱼丝')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'饼干糕点')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'龙井')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'碧螺春')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'铁观音')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'红茶')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'普洱')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'花草茶')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'水果茶')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'保健茶')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'芒果干')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'葡萄干')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'梅类')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'菠萝干')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'草莓干')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'香蕉干')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'玫瑰脯')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'蓝莓')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('8',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'配方奶粉')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'羊奶粉')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'辅食')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'营养品')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'纸尿裤')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'奶瓶')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'布尿裤')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'湿巾/纸巾')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'睡袋/蚊帐')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'抱被/毛毯')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'洗浴护肤')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'水杯/水壶')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'衣物清洗')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'套装')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'T恤')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'连衣裙')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'半截裙')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'休闲裤')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'凉鞋')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'运动鞋')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'帆布鞋')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'内衣裤')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'帽子/配件')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'亲子装')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('9',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'GPS导航')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'充电器')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'车载影音')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'加热保温')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'座垫/座套')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'脚垫')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'专车专用')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'摩托车相关')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'外部装饰')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'汽车香水')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'改装配件')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'测速电子狗')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'汽车保险')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'鲜花速递')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'礼品定制')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'绿植园艺')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'乐器')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'书籍')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'考试')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'计算机图书')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'期刊杂志')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'小说')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'漫画')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'CD/DVD')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'少儿图书')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'养生图书')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'艺术图书')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'励志图书')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('10',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'话费直充')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'移动充值卡')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'联通充值卡')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'电信充值卡')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'固话充值卡')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'IP卡')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'网络电话')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'手机号码卡')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'双色球')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'大乐透')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'七星彩')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'七乐彩')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'福彩3D')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'排列三')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'排列五')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'22选5')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'旅行意外险')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'自驾意外险')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'家庭财产险')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'老人骨折险')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'家财火宅险')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'车险')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'Q币充值')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'Q点充值')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'QQ卡')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'超级QQ')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'QQ会员')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'红钻')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'黄钻')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'绿钻')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'蓝钻')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'DNF黑钻')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'CF会员')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'音速紫钻')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('11',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'国内机票')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'国内酒店')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'酒店团购')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'演出门票')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'话剧歌剧')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'演唱会')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'音乐会')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'景区门票')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'温泉')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'主题乐园')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'四折电影票')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'折扣活动')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'免费抢票')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'旅行意外险')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'自驾意外险')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'家庭财产险')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'老人骨折险')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'家财火宅险')
+[2016-03-17 13:52:01] /zhonghua/admin/modules/shop/index.php?act=goods_class&op=goods_class_import ( act=goods_class&op=goods_class_import ) 
+ERR: Db Error: Column 'gc_parent_id' cannot be null
+INSERT  INTO `zgjjw_goods_class` (gc_sort,gc_parent_id,gc_name) VALUES ('0',NULL,'车险')

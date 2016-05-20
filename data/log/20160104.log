@@ -1,0 +1,1593 @@
+[2016-01-04 07:13:30] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle'
+SELECT circle.*, is_hot*rand() as rand FROM `shopwwi_circle` WHERE ( circle_status = '1' ) AND ( is_hot = '1' ) ORDER BY rand desc LIMIT 3  
+[2016-01-04 07:13:30] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle'
+SELECT circle.*, is_recommend*rand() as rand FROM `shopwwi_circle` WHERE ( circle_status = '1' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 20  
+[2016-01-04 07:13:30] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle_theme'
+SELECT circle_theme.*, is_recommend*rand() as rand FROM `shopwwi_circle_theme` WHERE ( has_affix = '1' ) AND ( is_closed = '0' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 8  
+[2016-01-04 07:13:30] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle_member'
+SELECT circle_member.*, is_recommend*rand() as rand FROM `shopwwi_circle_member` WHERE ( is_recommend = '1' ) ORDER BY rand desc LIMIT 5  
+[2016-01-04 19:13:19] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:13:19] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451905999' ) AND ( end_time > '1451905999' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 19:13:19] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 19:13:19] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451905999' ) AND ( end_time > '1451905999' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 19:13:19] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 19:13:19] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 19:13:21] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:13:21] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451906001' ) AND ( end_time > '1451906001' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 19:13:21] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 19:13:21] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451906001' ) AND ( end_time > '1451906001' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 19:13:21] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 19:13:21] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 19:42:56] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:42:56] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:42:56] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451907775' ) AND ( end_time > '1451907775' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 19:42:56] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451907775' ) AND ( end_time > '1451907775' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 19:42:56] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 19:42:56] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 19:42:56] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451907775' ) AND ( end_time > '1451907775' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 19:42:56] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451907775' ) AND ( end_time > '1451907775' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 19:42:56] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 19:42:56] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 19:42:56] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 19:42:56] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 19:43:12] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:43:13] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451907792' ) AND ( end_time > '1451907792' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 19:43:13] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 19:43:13] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451907792' ) AND ( end_time > '1451907792' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 19:43:13] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 19:43:13] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 19:44:31] /shop/cate-478-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:44:31] /shop/cate-478-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_type_brand' doesn't exist
+SELECT brand_id FROM `shopwwi_type_brand` WHERE ( type_id = '1' ) LIMIT 1000  
+[2016-01-04 19:44:31] /shop/cate-478-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_attribute' doesn't exist
+SELECT attr_id,attr_name FROM `shopwwi_attribute` WHERE ( type_id = '1' ) AND ( attr_show = '1' ) ORDER BY attr_sort asc LIMIT 1000  
+[2016-01-04 19:44:31] /shop/cate-478-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_attribute_value' doesn't exist
+SELECT attr_value_id,attr_value_name,attr_id FROM `shopwwi_attribute_value` WHERE ( type_id = '1' ) ORDER BY attr_value_sort asc,attr_value_id asc LIMIT 1000  
+[2016-01-04 19:44:31] /shop/cate-478-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods' doesn't exist
+SELECT count(distinct CONCAT(goods_commonid,',',color_id)) AS nc_count FROM `shopwwi_goods` WHERE ( gc_id_3 = '478' ) AND ( goods_state = '1' ) AND ( goods_verify = '1' ) LIMIT 1  
+[2016-01-04 19:44:31] /shop/cate-478-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods_common' doesn't exist
+SELECT COUNT(*) AS nc_count FROM `shopwwi_goods_common` WHERE ( gc_id_3 = '478' ) LIMIT 1  
+[2016-01-04 19:44:31] /shop/cate-478-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods' doesn't exist
+SELECT * FROM `shopwwi_goods` WHERE ( gc_id_3 = '478' ) AND ( goods_state = '1' ) AND ( goods_verify = '1' ) ORDER BY goods_salenum desc LIMIT 4  
+[2016-01-04 19:44:33] /shop/index.php?act=search&op=get_booth_goods&cate_id=478 ( act=search&op=get_booth_goods ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:44:33] /shop/index.php?act=search&op=get_booth_goods&cate_id=478 ( act=search&op=get_booth_goods ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_booth_goods' doesn't exist
+SELECT goods_id FROM `shopwwi_p_booth_goods` WHERE ( gc_id IN ('478') ) ORDER BY rand() LIMIT 4  
+[2016-01-04 19:44:34] /shop/index.php?act=compare&op=checkcompare ( act=compare&op=checkcompare ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:44:34] /shop/index.php?act=search&op=get_guesslike ( act=search&op=get_guesslike ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:44:34] /shop/index.php?act=search&op=get_guesslike ( act=search&op=get_guesslike ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_booth_goods' doesn't exist
+SELECT * FROM `shopwwi_p_booth_goods` WHERE ( gc_id IN('') ) AND ( booth_state = '1' ) ORDER BY rand() LIMIT 20  
+[2016-01-04 19:44:34] /shop/index.php?act=search&op=get_guesslike ( act=search&op=get_guesslike ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods' doesn't exist
+SELECT * FROM `shopwwi_goods` WHERE ( goods_id IN('') ) AND ( goods_state = '1' ) AND ( goods_verify = '1' ) ORDER BY goods_id desc LIMIT 1000  
+[2016-01-04 19:44:34] /shop/index.php?act=search&op=get_gc_goods_recommend&cate_id=478 ( act=search&op=get_gc_goods_recommend ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:44:34] /shop/index.php?act=search&op=get_gc_goods_recommend&cate_id=478 ( act=search&op=get_gc_goods_recommend ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods_recommend' doesn't exist
+SELECT * FROM `shopwwi_goods_recommend` WHERE ( rec_gc_id = '478' ) LIMIT 1000  
+[2016-01-04 19:44:38] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:44:38] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451907878' ) AND ( end_time > '1451907878' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 19:44:38] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 19:44:38] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451907878' ) AND ( end_time > '1451907878' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 19:44:38] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 19:44:38] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 19:47:23] /shop/cate-156-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:47:23] /shop/cate-156-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_type_brand' doesn't exist
+SELECT brand_id FROM `shopwwi_type_brand` WHERE ( type_id = '0' ) LIMIT 1000  
+[2016-01-04 19:47:23] /shop/cate-156-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_attribute' doesn't exist
+SELECT attr_id,attr_name FROM `shopwwi_attribute` WHERE ( type_id = '0' ) AND ( attr_show = '1' ) ORDER BY attr_sort asc LIMIT 1000  
+[2016-01-04 19:47:23] /shop/cate-156-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_attribute_value' doesn't exist
+SELECT attr_value_id,attr_value_name,attr_id FROM `shopwwi_attribute_value` WHERE ( type_id = '0' ) ORDER BY attr_value_sort asc,attr_value_id asc LIMIT 1000  
+[2016-01-04 19:47:23] /shop/cate-156-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods' doesn't exist
+SELECT count(distinct CONCAT(goods_commonid,',',color_id)) AS nc_count FROM `shopwwi_goods` WHERE ( gc_id_3 = '156' ) AND ( goods_state = '1' ) AND ( goods_verify = '1' ) LIMIT 1  
+[2016-01-04 19:47:23] /shop/cate-156-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods_common' doesn't exist
+SELECT COUNT(*) AS nc_count FROM `shopwwi_goods_common` WHERE ( gc_id_3 = '156' ) LIMIT 1  
+[2016-01-04 19:47:23] /shop/cate-156-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods' doesn't exist
+SELECT * FROM `shopwwi_goods` WHERE ( gc_id_3 = '156' ) AND ( goods_state = '1' ) AND ( goods_verify = '1' ) ORDER BY goods_salenum desc LIMIT 4  
+[2016-01-04 19:47:23] /shop/cate-156-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:47:23] /shop/cate-156-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_type_brand' doesn't exist
+SELECT brand_id FROM `shopwwi_type_brand` WHERE ( type_id = '0' ) LIMIT 1000  
+[2016-01-04 19:47:23] /shop/cate-156-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_attribute' doesn't exist
+SELECT attr_id,attr_name FROM `shopwwi_attribute` WHERE ( type_id = '0' ) AND ( attr_show = '1' ) ORDER BY attr_sort asc LIMIT 1000  
+[2016-01-04 19:47:23] /shop/cate-156-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_attribute_value' doesn't exist
+SELECT attr_value_id,attr_value_name,attr_id FROM `shopwwi_attribute_value` WHERE ( type_id = '0' ) ORDER BY attr_value_sort asc,attr_value_id asc LIMIT 1000  
+[2016-01-04 19:47:23] /shop/cate-156-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods' doesn't exist
+SELECT count(distinct CONCAT(goods_commonid,',',color_id)) AS nc_count FROM `shopwwi_goods` WHERE ( gc_id_3 = '156' ) AND ( goods_state = '1' ) AND ( goods_verify = '1' ) LIMIT 1  
+[2016-01-04 19:47:23] /shop/cate-156-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods_common' doesn't exist
+SELECT COUNT(*) AS nc_count FROM `shopwwi_goods_common` WHERE ( gc_id_3 = '156' ) LIMIT 1  
+[2016-01-04 19:47:23] /shop/cate-156-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods' doesn't exist
+SELECT * FROM `shopwwi_goods` WHERE ( gc_id_3 = '156' ) AND ( goods_state = '1' ) AND ( goods_verify = '1' ) ORDER BY goods_salenum desc LIMIT 4  
+[2016-01-04 19:47:24] /shop/index.php?act=search&op=get_booth_goods&cate_id=156 ( act=search&op=get_booth_goods ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:47:24] /shop/index.php?act=search&op=get_booth_goods&cate_id=156 ( act=search&op=get_booth_goods ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_booth_goods' doesn't exist
+SELECT goods_id FROM `shopwwi_p_booth_goods` WHERE ( gc_id IN ('156') ) ORDER BY rand() LIMIT 4  
+[2016-01-04 19:47:24] /shop/index.php?act=search&op=get_guesslike ( act=search&op=get_guesslike ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:47:24] /shop/index.php?act=search&op=get_guesslike ( act=search&op=get_guesslike ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_booth_goods' doesn't exist
+SELECT * FROM `shopwwi_p_booth_goods` WHERE ( gc_id IN('') ) AND ( booth_state = '1' ) ORDER BY rand() LIMIT 20  
+[2016-01-04 19:47:24] /shop/index.php?act=search&op=get_guesslike ( act=search&op=get_guesslike ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods' doesn't exist
+SELECT * FROM `shopwwi_goods` WHERE ( goods_id IN('') ) AND ( goods_state = '1' ) AND ( goods_verify = '1' ) ORDER BY goods_id desc LIMIT 1000  
+[2016-01-04 19:47:24] /shop/index.php?act=compare&op=checkcompare ( act=compare&op=checkcompare ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:47:24] /shop/index.php?act=search&op=get_gc_goods_recommend&cate_id=156 ( act=search&op=get_gc_goods_recommend ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:47:24] /shop/index.php?act=search&op=get_gc_goods_recommend&cate_id=156 ( act=search&op=get_gc_goods_recommend ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods_recommend' doesn't exist
+SELECT * FROM `shopwwi_goods_recommend` WHERE ( rec_gc_id = '156' ) LIMIT 1000  
+[2016-01-04 19:47:26] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:47:26] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451908045' ) AND ( end_time > '1451908045' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 19:47:26] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 19:47:26] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451908045' ) AND ( end_time > '1451908045' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 19:47:26] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 19:47:26] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 19:47:31] /member/article-36.html ( act=article&op=show ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_article' doesn't exist
+SELECT * FROM `shopwwi_article` WHERE article_id='36'
+[2016-01-04 19:47:31] /member/article-36.html ( act=article&op=show ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_article' doesn't exist
+SELECT * FROM `shopwwi_article` WHERE article_id='36'
+[2016-01-04 19:47:35] /member/article-38.html ( act=article&op=show ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_article' doesn't exist
+SELECT * FROM `shopwwi_article` WHERE article_id='38'
+[2016-01-04 19:47:36] /member/article-38.html ( act=article&op=show ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_article' doesn't exist
+SELECT * FROM `shopwwi_article` WHERE article_id='38'
+[2016-01-04 19:47:39] /member/article-41.html ( act=article&op=show ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_article' doesn't exist
+SELECT * FROM `shopwwi_article` WHERE article_id='41'
+[2016-01-04 19:47:42] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:47:42] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451908062' ) AND ( end_time > '1451908062' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 19:47:42] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 19:47:42] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451908062' ) AND ( end_time > '1451908062' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 19:47:42] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 19:47:42] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 19:48:00] /admin/index.php?act=login&op=login ( act=login&op=login ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_lock' doesn't exist
+SELECT * FROM `shopwwi_lock` WHERE ( pid = '204548967105' ) LIMIT 1  
+[2016-01-04 19:48:00] /admin/index.php?act=login&op=login ( act=login&op=login ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_admin' doesn't exist
+SELECT * FROM `shopwwi_admin` as `admin`  WHERE  admin_name = 'admin_s2' and admin_password = '80248a484f4f207c41a8543a38f86a54'
+[2016-01-04 19:48:00] /admin/index.php?act=login&op=login ( act=login&op=login ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_lock' doesn't exist
+SELECT * FROM `shopwwi_lock` WHERE ( pid = '20454896715' ) LIMIT 1  
+[2016-01-04 19:48:00] /admin/index.php?act=login&op=login ( act=login&op=login ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_lock' doesn't exist
+SELECT * FROM `shopwwi_lock` WHERE ( pid = '20454896715' ) LIMIT 1  
+[2016-01-04 19:48:00] /admin/index.php?act=login&op=login ( act=login&op=login ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_lock' doesn't exist
+INSERT  INTO `shopwwi_lock` (pid,pvalue,expiretime) VALUES ('20454896715','1','1451908680')
+[2016-01-04 19:50:35] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:50:35] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451908234' ) AND ( end_time > '1451908234' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 19:50:35] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 19:50:35] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451908234' ) AND ( end_time > '1451908234' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 19:50:35] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 19:50:35] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 19:50:42] /shop/tm.html ( act=show_groupbuy&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:50:42] /shop/tm.html ( act=show_groupbuy&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT COUNT(*) AS nc_count FROM `shopwwi_groupbuy` WHERE ( recommended = '1' ) AND ( is_vr = '0' ) AND ( state = '20' ) AND ( start_time < '1451908241' ) AND ( end_time > '1451908241' ) LIMIT 1  
+[2016-01-04 19:50:42] /shop/tm.html ( act=show_groupbuy&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( recommended = '1' ) AND ( is_vr = '0' ) AND ( state = '20' ) AND ( start_time < '1451908241' ) AND ( end_time > '1451908241' ) ORDER BY state asc LIMIT 0,11  
+[2016-01-04 19:50:42] /shop/tm.html ( act=show_groupbuy&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT COUNT(*) AS nc_count FROM `shopwwi_groupbuy` WHERE ( is_vr = '0' ) AND ( state = '20' ) AND ( start_time > '1451908241' ) LIMIT 1  
+[2016-01-04 19:50:42] /shop/tm.html ( act=show_groupbuy&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( is_vr = '0' ) AND ( state = '20' ) AND ( start_time > '1451908241' ) ORDER BY state asc LIMIT 0,4  
+[2016-01-04 19:50:42] /shop/tm.html ( act=show_groupbuy&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT COUNT(*) AS nc_count FROM `shopwwi_groupbuy` WHERE ( is_vr = '0' ) AND ( state = '20' ) AND ( start_time < '1451908241' ) AND ( end_time > '1451908241' ) LIMIT 1  
+[2016-01-04 19:50:42] /shop/tm.html ( act=show_groupbuy&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( is_vr = '0' ) AND ( state = '20' ) AND ( start_time < '1451908241' ) AND ( end_time > '1451908241' ) LIMIT 0,20  
+[2016-01-04 19:52:44] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:52:44] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451908364' ) AND ( end_time > '1451908364' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 19:52:44] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 19:52:44] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451908364' ) AND ( end_time > '1451908364' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 19:52:44] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 19:52:44] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 19:52:48] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:52:48] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451908368' ) AND ( end_time > '1451908368' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 19:52:48] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 19:52:48] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451908368' ) AND ( end_time > '1451908368' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 19:52:48] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 19:52:48] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 19:53:38] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:53:38] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451908418' ) AND ( end_time > '1451908418' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 19:53:38] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 19:53:38] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451908418' ) AND ( end_time > '1451908418' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 19:53:38] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 19:53:38] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 19:53:52] /shop/item-100112.html ( act=goods&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:53:52] /shop/item-100112.html ( act=goods&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods' doesn't exist
+SELECT * FROM `shopwwi_goods` WHERE ( goods_id = '100112' ) LIMIT 1  
+[2016-01-04 19:53:54] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:53:54] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451908434' ) AND ( end_time > '1451908434' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 19:53:54] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 19:53:54] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451908434' ) AND ( end_time > '1451908434' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 19:53:54] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 19:53:54] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 19:53:57] /shop/item-100093.html ( act=goods&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:53:57] /shop/item-100093.html ( act=goods&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods' doesn't exist
+SELECT * FROM `shopwwi_goods` WHERE ( goods_id = '100093' ) LIMIT 1  
+[2016-01-04 19:53:59] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:53:59] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451908439' ) AND ( end_time > '1451908439' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 19:53:59] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 19:53:59] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451908439' ) AND ( end_time > '1451908439' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 19:53:59] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 19:53:59] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 19:54:02] /mo_bile/index.php?act=goods&op=goods_detail&goods_id=100143&key= ( act=goods&op=goods_detail ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods' doesn't exist
+SELECT * FROM `shopwwi_goods` WHERE ( goods_id = '100143' ) LIMIT 1  
+[2016-01-04 19:54:10] /shop/channel-601.html ( act=channel&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:54:10] /shop/channel-601.html ( act=channel&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_id = '601' ) AND ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:54:10] /shop/channel-601.html ( act=channel&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_id IN('') ) AND ( web_page IN ('channel_tp','channel_fl') ) ORDER BY convert(web_name using gbk) asc,web_id desc LIMIT 1000  
+[2016-01-04 19:54:14] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:54:14] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451908454' ) AND ( end_time > '1451908454' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 19:54:14] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 19:54:14] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451908454' ) AND ( end_time > '1451908454' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 19:54:14] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 19:54:14] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 19:54:14] /shop/tm.html ( act=show_groupbuy&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:54:14] /shop/tm.html ( act=show_groupbuy&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT COUNT(*) AS nc_count FROM `shopwwi_groupbuy` WHERE ( recommended = '1' ) AND ( is_vr = '0' ) AND ( state = '20' ) AND ( start_time < '1451908454' ) AND ( end_time > '1451908454' ) LIMIT 1  
+[2016-01-04 19:54:14] /shop/tm.html ( act=show_groupbuy&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( recommended = '1' ) AND ( is_vr = '0' ) AND ( state = '20' ) AND ( start_time < '1451908454' ) AND ( end_time > '1451908454' ) ORDER BY state asc LIMIT 0,11  
+[2016-01-04 19:54:14] /shop/tm.html ( act=show_groupbuy&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT COUNT(*) AS nc_count FROM `shopwwi_groupbuy` WHERE ( is_vr = '0' ) AND ( state = '20' ) AND ( start_time > '1451908454' ) LIMIT 1  
+[2016-01-04 19:54:14] /shop/tm.html ( act=show_groupbuy&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( is_vr = '0' ) AND ( state = '20' ) AND ( start_time > '1451908454' ) ORDER BY state asc LIMIT 0,4  
+[2016-01-04 19:54:14] /shop/tm.html ( act=show_groupbuy&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT COUNT(*) AS nc_count FROM `shopwwi_groupbuy` WHERE ( is_vr = '0' ) AND ( state = '20' ) AND ( start_time < '1451908454' ) AND ( end_time > '1451908454' ) LIMIT 1  
+[2016-01-04 19:54:14] /shop/tm.html ( act=show_groupbuy&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( is_vr = '0' ) AND ( state = '20' ) AND ( start_time < '1451908454' ) AND ( end_time > '1451908454' ) LIMIT 0,20  
+[2016-01-04 19:54:16] /shop/cate-478-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:54:16] /shop/cate-478-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_type_brand' doesn't exist
+SELECT brand_id FROM `shopwwi_type_brand` WHERE ( type_id = '1' ) LIMIT 1000  
+[2016-01-04 19:54:16] /shop/cate-478-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_attribute' doesn't exist
+SELECT attr_id,attr_name FROM `shopwwi_attribute` WHERE ( type_id = '1' ) AND ( attr_show = '1' ) ORDER BY attr_sort asc LIMIT 1000  
+[2016-01-04 19:54:16] /shop/cate-478-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_attribute_value' doesn't exist
+SELECT attr_value_id,attr_value_name,attr_id FROM `shopwwi_attribute_value` WHERE ( type_id = '1' ) ORDER BY attr_value_sort asc,attr_value_id asc LIMIT 1000  
+[2016-01-04 19:54:16] /shop/cate-478-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods' doesn't exist
+SELECT count(distinct CONCAT(goods_commonid,',',color_id)) AS nc_count FROM `shopwwi_goods` WHERE ( gc_id_3 = '478' ) AND ( goods_state = '1' ) AND ( goods_verify = '1' ) LIMIT 1  
+[2016-01-04 19:54:16] /shop/cate-478-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods_common' doesn't exist
+SELECT COUNT(*) AS nc_count FROM `shopwwi_goods_common` WHERE ( gc_id_3 = '478' ) LIMIT 1  
+[2016-01-04 19:54:16] /shop/cate-478-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods' doesn't exist
+SELECT * FROM `shopwwi_goods` WHERE ( gc_id_3 = '478' ) AND ( goods_state = '1' ) AND ( goods_verify = '1' ) ORDER BY goods_salenum desc LIMIT 4  
+[2016-01-04 19:54:18] /shop/index.php?act=compare&op=checkcompare ( act=compare&op=checkcompare ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:54:18] /shop/index.php?act=search&op=get_booth_goods&cate_id=478 ( act=search&op=get_booth_goods ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:54:18] /shop/index.php?act=search&op=get_booth_goods&cate_id=478 ( act=search&op=get_booth_goods ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_booth_goods' doesn't exist
+SELECT goods_id FROM `shopwwi_p_booth_goods` WHERE ( gc_id IN ('478') ) ORDER BY rand() LIMIT 4  
+[2016-01-04 19:54:18] /shop/index.php?act=search&op=get_guesslike ( act=search&op=get_guesslike ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:54:18] /shop/index.php?act=search&op=get_guesslike ( act=search&op=get_guesslike ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_booth_goods' doesn't exist
+SELECT * FROM `shopwwi_p_booth_goods` WHERE ( gc_id IN('') ) AND ( booth_state = '1' ) ORDER BY rand() LIMIT 20  
+[2016-01-04 19:54:18] /shop/index.php?act=search&op=get_guesslike ( act=search&op=get_guesslike ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods' doesn't exist
+SELECT * FROM `shopwwi_goods` WHERE ( goods_id IN('') ) AND ( goods_state = '1' ) AND ( goods_verify = '1' ) ORDER BY goods_id desc LIMIT 1000  
+[2016-01-04 19:54:19] /shop/index.php?act=search&op=get_gc_goods_recommend&cate_id=478 ( act=search&op=get_gc_goods_recommend ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:54:19] /shop/index.php?act=search&op=get_gc_goods_recommend&cate_id=478 ( act=search&op=get_gc_goods_recommend ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods_recommend' doesn't exist
+SELECT * FROM `shopwwi_goods_recommend` WHERE ( rec_gc_id = '478' ) LIMIT 1000  
+[2016-01-04 19:54:46] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:54:46] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451908486' ) AND ( end_time > '1451908486' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 19:54:46] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 19:54:46] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451908486' ) AND ( end_time > '1451908486' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 19:54:46] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 19:54:46] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 19:56:18] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:56:18] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451908578' ) AND ( end_time > '1451908578' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 19:56:18] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 19:56:18] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451908578' ) AND ( end_time > '1451908578' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 19:56:18] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 19:56:18] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 19:56:28] /shop/promotion.html ( act=promotion&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:56:28] /shop/promotion.html ( act=promotion&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT COUNT(*) AS nc_count FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time <= '1451908588' ) AND ( end_time > '1451908588' ) LIMIT 1  
+[2016-01-04 19:56:28] /shop/promotion.html ( act=promotion&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time <= '1451908588' ) AND ( end_time > '1451908588' ) ORDER BY xianshi_goods_id desc LIMIT 0,16  
+[2016-01-04 19:56:28] /shop/promotion.html ( act=promotion&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods' doesn't exist
+SELECT goods_id,gc_id_1,evaluation_good_star,store_id,store_name FROM `shopwwi_goods` WHERE ( goods_id IN('') ) AND ( goods_state = '1' ) AND ( goods_verify = '1' ) LIMIT 16  
+[2016-01-04 19:56:28] /shop/promotion.html ( act=promotion&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` WHERE ( geval_goodsid IN('') ) ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 19:56:32] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:56:32] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451908592' ) AND ( end_time > '1451908592' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 19:56:32] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 19:56:32] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451908592' ) AND ( end_time > '1451908592' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 19:56:32] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 19:56:32] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 19:58:51] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 19:58:51] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451908731' ) AND ( end_time > '1451908731' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 19:58:51] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 19:58:51] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451908731' ) AND ( end_time > '1451908731' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 19:58:51] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 19:58:51] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 20:01:41] /shop/cate-1045-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 20:01:41] /shop/cate-1045-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_type_brand' doesn't exist
+SELECT brand_id FROM `shopwwi_type_brand` WHERE ( type_id = '0' ) LIMIT 1000  
+[2016-01-04 20:01:41] /shop/cate-1045-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_attribute' doesn't exist
+SELECT attr_id,attr_name FROM `shopwwi_attribute` WHERE ( type_id = '0' ) AND ( attr_show = '1' ) ORDER BY attr_sort asc LIMIT 1000  
+[2016-01-04 20:01:41] /shop/cate-1045-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_attribute_value' doesn't exist
+SELECT attr_value_id,attr_value_name,attr_id FROM `shopwwi_attribute_value` WHERE ( type_id = '0' ) ORDER BY attr_value_sort asc,attr_value_id asc LIMIT 1000  
+[2016-01-04 20:01:41] /shop/cate-1045-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods' doesn't exist
+SELECT count(distinct CONCAT(goods_commonid,',',color_id)) AS nc_count FROM `shopwwi_goods` WHERE ( gc_id_3 = '1045' ) AND ( goods_state = '1' ) AND ( goods_verify = '1' ) LIMIT 1  
+[2016-01-04 20:01:41] /shop/cate-1045-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods_common' doesn't exist
+SELECT COUNT(*) AS nc_count FROM `shopwwi_goods_common` WHERE ( gc_id_3 = '1045' ) LIMIT 1  
+[2016-01-04 20:01:41] /shop/cate-1045-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods' doesn't exist
+SELECT * FROM `shopwwi_goods` WHERE ( gc_id_3 = '1045' ) AND ( goods_state = '1' ) AND ( goods_verify = '1' ) ORDER BY goods_salenum desc LIMIT 4  
+[2016-01-04 20:06:17] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 20:06:17] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451909177' ) AND ( end_time > '1451909177' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 20:06:17] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 20:06:17] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451909177' ) AND ( end_time > '1451909177' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 20:06:17] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 20:06:17] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 20:10:23] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 20:10:23] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451909423' ) AND ( end_time > '1451909423' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 20:10:23] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 20:10:23] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451909423' ) AND ( end_time > '1451909423' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 20:10:23] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 20:10:23] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 20:10:40] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 20:10:40] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451909439' ) AND ( end_time > '1451909439' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 20:10:40] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 20:10:40] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451909439' ) AND ( end_time > '1451909439' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 20:10:40] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 20:10:40] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 20:10:46] /member/article-37.html ( act=article&op=show ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_article' doesn't exist
+SELECT * FROM `shopwwi_article` WHERE article_id='37'
+[2016-01-04 20:10:51] /member/article-36.html ( act=article&op=show ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_article' doesn't exist
+SELECT * FROM `shopwwi_article` WHERE article_id='36'
+[2016-01-04 20:10:55] /shop/invite.html ( act=invite&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 20:10:55] /shop/invite.html ( act=invite&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_member' doesn't exist
+SELECT COUNT(*) AS nc_count FROM `shopwwi_member` WHERE ( invite_one = NULL ) LIMIT 1  
+[2016-01-04 20:10:55] /shop/invite.html ( act=invite&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_member' doesn't exist
+SELECT * FROM `shopwwi_member` WHERE ( invite_one = NULL ) ORDER BY member_id desc LIMIT 0,10  
+[2016-01-04 20:11:06] /shop/invite-index-type-2.html ( act=invite&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 20:11:06] /shop/invite-index-type-2.html ( act=invite&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_member' doesn't exist
+SELECT COUNT(*) AS nc_count FROM `shopwwi_member` WHERE ( invite_two = NULL ) LIMIT 1  
+[2016-01-04 20:11:06] /shop/invite-index-type-2.html ( act=invite&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_member' doesn't exist
+SELECT * FROM `shopwwi_member` WHERE ( invite_two = NULL ) ORDER BY member_id desc LIMIT 0,10  
+[2016-01-04 20:11:06] /shop/invite-index-type-2.html ( act=invite&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 20:11:06] /shop/invite-index-type-2.html ( act=invite&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_member' doesn't exist
+SELECT COUNT(*) AS nc_count FROM `shopwwi_member` WHERE ( invite_two = NULL ) LIMIT 1  
+[2016-01-04 20:11:06] /shop/invite-index-type-2.html ( act=invite&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_member' doesn't exist
+SELECT * FROM `shopwwi_member` WHERE ( invite_two = NULL ) ORDER BY member_id desc LIMIT 0,10  
+[2016-01-04 20:39:15] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 20:39:15] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451911155' ) AND ( end_time > '1451911155' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 20:39:15] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 20:39:15] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451911155' ) AND ( end_time > '1451911155' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 20:39:15] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 20:39:15] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 20:51:50] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 20:51:50] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451911910' ) AND ( end_time > '1451911910' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 20:51:50] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 20:51:50] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451911910' ) AND ( end_time > '1451911910' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 20:51:50] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 20:51:50] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 20:59:34] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 20:59:34] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451912374' ) AND ( end_time > '1451912374' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 20:59:35] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 20:59:35] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451912374' ) AND ( end_time > '1451912374' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 20:59:35] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 20:59:35] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 20:59:43] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 20:59:43] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451912383' ) AND ( end_time > '1451912383' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 20:59:43] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 20:59:43] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451912383' ) AND ( end_time > '1451912383' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 20:59:43] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 20:59:43] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 20:59:48] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 20:59:48] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451912388' ) AND ( end_time > '1451912388' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 20:59:48] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 20:59:48] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451912388' ) AND ( end_time > '1451912388' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 20:59:48] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 20:59:48] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 20:59:53] /shop/cate-478-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 20:59:53] /shop/cate-478-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_type_brand' doesn't exist
+SELECT brand_id FROM `shopwwi_type_brand` WHERE ( type_id = '1' ) LIMIT 1000  
+[2016-01-04 20:59:53] /shop/cate-478-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_attribute' doesn't exist
+SELECT attr_id,attr_name FROM `shopwwi_attribute` WHERE ( type_id = '1' ) AND ( attr_show = '1' ) ORDER BY attr_sort asc LIMIT 1000  
+[2016-01-04 20:59:53] /shop/cate-478-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_attribute_value' doesn't exist
+SELECT attr_value_id,attr_value_name,attr_id FROM `shopwwi_attribute_value` WHERE ( type_id = '1' ) ORDER BY attr_value_sort asc,attr_value_id asc LIMIT 1000  
+[2016-01-04 20:59:53] /shop/cate-478-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods' doesn't exist
+SELECT count(distinct CONCAT(goods_commonid,',',color_id)) AS nc_count FROM `shopwwi_goods` WHERE ( gc_id_3 = '478' ) AND ( goods_state = '1' ) AND ( goods_verify = '1' ) LIMIT 1  
+[2016-01-04 20:59:53] /shop/cate-478-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods_common' doesn't exist
+SELECT COUNT(*) AS nc_count FROM `shopwwi_goods_common` WHERE ( gc_id_3 = '478' ) LIMIT 1  
+[2016-01-04 20:59:53] /shop/cate-478-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods' doesn't exist
+SELECT * FROM `shopwwi_goods` WHERE ( gc_id_3 = '478' ) AND ( goods_state = '1' ) AND ( goods_verify = '1' ) ORDER BY goods_salenum desc LIMIT 4  
+[2016-01-04 20:59:55] /shop/index.php?act=compare&op=checkcompare ( act=compare&op=checkcompare ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 20:59:55] /shop/index.php?act=search&op=get_guesslike ( act=search&op=get_guesslike ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 20:59:55] /shop/index.php?act=search&op=get_guesslike ( act=search&op=get_guesslike ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_booth_goods' doesn't exist
+SELECT * FROM `shopwwi_p_booth_goods` WHERE ( gc_id IN('') ) AND ( booth_state = '1' ) ORDER BY rand() LIMIT 20  
+[2016-01-04 20:59:55] /shop/index.php?act=search&op=get_guesslike ( act=search&op=get_guesslike ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods' doesn't exist
+SELECT * FROM `shopwwi_goods` WHERE ( goods_id IN('') ) AND ( goods_state = '1' ) AND ( goods_verify = '1' ) ORDER BY goods_id desc LIMIT 1000  
+[2016-01-04 20:59:55] /shop/index.php?act=search&op=get_booth_goods&cate_id=478 ( act=search&op=get_booth_goods ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 20:59:55] /shop/index.php?act=search&op=get_booth_goods&cate_id=478 ( act=search&op=get_booth_goods ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_booth_goods' doesn't exist
+SELECT goods_id FROM `shopwwi_p_booth_goods` WHERE ( gc_id IN ('478') ) ORDER BY rand() LIMIT 4  
+[2016-01-04 20:59:55] /shop/index.php?act=search&op=get_gc_goods_recommend&cate_id=478 ( act=search&op=get_gc_goods_recommend ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 20:59:55] /shop/index.php?act=search&op=get_gc_goods_recommend&cate_id=478 ( act=search&op=get_gc_goods_recommend ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods_recommend' doesn't exist
+SELECT * FROM `shopwwi_goods_recommend` WHERE ( rec_gc_id = '478' ) LIMIT 1000  
+[2016-01-04 20:59:58] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 20:59:58] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451912398' ) AND ( end_time > '1451912398' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 20:59:58] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 20:59:58] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451912398' ) AND ( end_time > '1451912398' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 20:59:58] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 20:59:58] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 21:00:28] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:00:28] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451912428' ) AND ( end_time > '1451912428' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 21:00:28] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 21:00:28] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451912428' ) AND ( end_time > '1451912428' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 21:00:28] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 21:00:28] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 21:01:42] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:01:42] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451912502' ) AND ( end_time > '1451912502' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 21:01:42] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 21:01:42] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451912502' ) AND ( end_time > '1451912502' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 21:01:42] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 21:01:42] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 21:01:48] /shop/item-100094.html ( act=goods&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:01:48] /shop/item-100094.html ( act=goods&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods' doesn't exist
+SELECT * FROM `shopwwi_goods` WHERE ( goods_id = '100094' ) LIMIT 1  
+[2016-01-04 21:01:50] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:01:50] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451912510' ) AND ( end_time > '1451912510' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 21:01:50] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 21:01:50] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451912510' ) AND ( end_time > '1451912510' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 21:01:50] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 21:01:50] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 21:01:50] /shop/tm-2.html ( act=show_groupbuy&op=groupbuy_detail ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:01:51] /shop/tm-2.html ( act=show_groupbuy&op=groupbuy_detail ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( groupbuy_id = '2' ) LIMIT 1  
+[2016-01-04 21:01:54] /member/article-41.html ( act=article&op=show ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_article' doesn't exist
+SELECT * FROM `shopwwi_article` WHERE article_id='41'
+[2016-01-04 21:02:21] /shop/brand.html ( act=brand&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:02:21] /shop/brand.html ( act=brand&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_brand' doesn't exist
+SELECT * FROM `shopwwi_brand` WHERE ( brand_apply = '1' ) ORDER BY brand_sort asc LIMIT 1000  
+[2016-01-04 21:02:25] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:02:25] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451912545' ) AND ( end_time > '1451912545' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 21:02:25] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 21:02:25] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451912545' ) AND ( end_time > '1451912545' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 21:02:25] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 21:02:25] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 21:04:58] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:04:58] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451912698' ) AND ( end_time > '1451912698' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 21:04:58] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 21:04:58] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451912698' ) AND ( end_time > '1451912698' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 21:04:58] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 21:04:58] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 21:05:01] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:05:01] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451912701' ) AND ( end_time > '1451912701' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 21:05:01] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 21:05:01] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451912701' ) AND ( end_time > '1451912701' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 21:05:01] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 21:05:01] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 21:05:14] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:05:14] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451912713' ) AND ( end_time > '1451912713' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 21:05:14] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 21:05:14] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451912713' ) AND ( end_time > '1451912713' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 21:05:14] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 21:05:14] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 21:05:16] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:05:16] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451912716' ) AND ( end_time > '1451912716' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 21:05:16] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 21:05:16] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451912716' ) AND ( end_time > '1451912716' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 21:05:16] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 21:05:16] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 21:05:25] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:05:25] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451912725' ) AND ( end_time > '1451912725' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 21:05:25] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 21:05:25] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451912725' ) AND ( end_time > '1451912725' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 21:05:25] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 21:05:25] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 21:05:57] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:05:57] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451912757' ) AND ( end_time > '1451912757' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 21:05:57] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 21:05:57] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451912757' ) AND ( end_time > '1451912757' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 21:05:57] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 21:05:57] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 21:06:41] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_circle' doesn't exist
+SELECT circle.*, is_hot*rand() as rand FROM `shopwwi_circle` WHERE ( circle_status = '1' ) AND ( is_hot = '1' ) ORDER BY rand desc LIMIT 3  
+[2016-01-04 21:06:41] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_circle_class' doesn't exist
+SELECT * FROM `shopwwi_circle_class` WHERE ( class_status = '1' ) AND ( is_recommend = '1' ) ORDER BY class_sort asc LIMIT 1000  
+[2016-01-04 21:06:41] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_circle' doesn't exist
+SELECT circle.*, is_recommend*rand() as rand FROM `shopwwi_circle` WHERE ( circle_status = '1' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 20  
+[2016-01-04 21:06:41] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_circle_theme' doesn't exist
+SELECT circle_theme.*, is_recommend*rand() as rand FROM `shopwwi_circle_theme` WHERE ( has_affix = '1' ) AND ( is_closed = '0' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 8  
+[2016-01-04 21:06:41] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_circle_theme' doesn't exist
+SELECT * FROM `shopwwi_circle_theme` WHERE ( has_goods = '1' ) AND ( is_closed = '0' ) ORDER BY theme_id desc LIMIT 6  
+[2016-01-04 21:06:41] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_circle_member' doesn't exist
+SELECT circle_member.*, is_recommend*rand() as rand FROM `shopwwi_circle_member` WHERE ( is_recommend = '1' ) ORDER BY rand desc LIMIT 5  
+[2016-01-04 21:06:41] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_circle_theme' doesn't exist
+SELECT * FROM `shopwwi_circle_theme` WHERE ( is_closed = '0' ) ORDER BY theme_id desc LIMIT 10  
+[2016-01-04 21:06:41] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_circle_theme' doesn't exist
+SELECT * FROM `shopwwi_circle_theme` WHERE ( is_closed = '0' ) ORDER BY theme_browsecount desc LIMIT 10  
+[2016-01-04 21:06:41] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_circle_theme' doesn't exist
+SELECT * FROM `shopwwi_circle_theme` WHERE ( is_closed = '0' ) ORDER BY theme_commentcount desc LIMIT 10  
+[2016-01-04 21:15:43] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:15:43] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451913343' ) AND ( end_time > '1451913343' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 21:15:43] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 21:15:43] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451913343' ) AND ( end_time > '1451913343' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 21:15:43] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 21:15:43] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 21:17:00] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:17:00] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451913420' ) AND ( end_time > '1451913420' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 21:17:00] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 21:17:00] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451913420' ) AND ( end_time > '1451913420' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 21:17:00] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 21:17:00] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 21:17:29] /shop/channel-601.html ( act=channel&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:17:29] /shop/channel-601.html ( act=channel&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_id = '601' ) AND ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:17:29] /shop/channel-601.html ( act=channel&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_id IN('') ) AND ( web_page IN ('channel_tp','channel_fl') ) ORDER BY convert(web_name using gbk) asc,web_id desc LIMIT 1000  
+[2016-01-04 21:17:39] /shop/brand-140-0-0-0-0-0-0.html ( act=brand&op=list ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:17:39] /shop/brand-140-0-0-0-0-0-0.html ( act=brand&op=list ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_brand' doesn't exist
+SELECT * FROM `shopwwi_brand` WHERE ( brand_id = '140' ) LIMIT 1  
+[2016-01-04 21:17:42] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:17:42] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451913462' ) AND ( end_time > '1451913462' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 21:17:42] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 21:17:42] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451913462' ) AND ( end_time > '1451913462' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 21:17:42] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 21:17:42] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 21:17:53] /shop/item-100112.html ( act=goods&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:17:53] /shop/item-100112.html ( act=goods&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods' doesn't exist
+SELECT * FROM `shopwwi_goods` WHERE ( goods_id = '100112' ) LIMIT 1  
+[2016-01-04 21:17:55] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:17:55] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451913475' ) AND ( end_time > '1451913475' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 21:17:55] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 21:17:55] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451913475' ) AND ( end_time > '1451913475' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 21:17:55] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 21:17:55] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 21:18:00] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:18:00] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451913480' ) AND ( end_time > '1451913480' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 21:18:00] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 21:18:00] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451913480' ) AND ( end_time > '1451913480' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 21:18:00] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 21:18:00] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 21:18:05] /shop/channel-601.html ( act=channel&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:18:05] /shop/channel-601.html ( act=channel&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_id = '601' ) AND ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:18:05] /shop/channel-601.html ( act=channel&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_id IN('') ) AND ( web_page IN ('channel_tp','channel_fl') ) ORDER BY convert(web_name using gbk) asc,web_id desc LIMIT 1000  
+[2016-01-04 21:18:13] /shop/channel-601.html ( act=channel&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:18:13] /shop/channel-601.html ( act=channel&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_id = '601' ) AND ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:18:13] /shop/channel-601.html ( act=channel&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_id IN('') ) AND ( web_page IN ('channel_tp','channel_fl') ) ORDER BY convert(web_name using gbk) asc,web_id desc LIMIT 1000  
+[2016-01-04 21:21:31] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:21:31] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451913690' ) AND ( end_time > '1451913690' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 21:21:31] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 21:21:31] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451913690' ) AND ( end_time > '1451913690' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 21:21:31] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 21:21:31] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 21:21:57] /shop/channel-601.html ( act=channel&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:21:57] /shop/channel-601.html ( act=channel&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_id = '601' ) AND ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:21:57] /shop/channel-601.html ( act=channel&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_id IN('') ) AND ( web_page IN ('channel_tp','channel_fl') ) ORDER BY convert(web_name using gbk) asc,web_id desc LIMIT 1000  
+[2016-01-04 21:22:28] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:22:28] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451913748' ) AND ( end_time > '1451913748' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 21:22:28] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 21:22:28] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451913748' ) AND ( end_time > '1451913748' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 21:22:28] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 21:22:28] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 21:23:18] /shop/brand-89-0-0-0-0-0-0.html ( act=brand&op=list ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:23:18] /shop/brand-89-0-0-0-0-0-0.html ( act=brand&op=list ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_brand' doesn't exist
+SELECT * FROM `shopwwi_brand` WHERE ( brand_id = '89' ) LIMIT 1  
+[2016-01-04 21:23:20] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:23:20] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451913800' ) AND ( end_time > '1451913800' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 21:23:20] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 21:23:20] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451913800' ) AND ( end_time > '1451913800' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 21:23:20] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 21:23:20] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 21:23:34] /shop/brand-202-0-0-0-0-0-0.html ( act=brand&op=list ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:23:34] /shop/brand-202-0-0-0-0-0-0.html ( act=brand&op=list ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_brand' doesn't exist
+SELECT * FROM `shopwwi_brand` WHERE ( brand_id = '202' ) LIMIT 1  
+[2016-01-04 21:23:37] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:23:37] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451913817' ) AND ( end_time > '1451913817' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 21:23:37] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 21:23:37] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451913817' ) AND ( end_time > '1451913817' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 21:23:37] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 21:23:37] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 21:26:15] /shop/channel-601.html ( act=channel&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:26:15] /shop/channel-601.html ( act=channel&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_id = '601' ) AND ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:26:15] /shop/channel-601.html ( act=channel&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_id IN('') ) AND ( web_page IN ('channel_tp','channel_fl') ) ORDER BY convert(web_name using gbk) asc,web_id desc LIMIT 1000  
+[2016-01-04 21:26:24] /shop/promotion.html ( act=promotion&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:26:24] /shop/promotion.html ( act=promotion&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT COUNT(*) AS nc_count FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time <= '1451913984' ) AND ( end_time > '1451913984' ) LIMIT 1  
+[2016-01-04 21:26:24] /shop/promotion.html ( act=promotion&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time <= '1451913984' ) AND ( end_time > '1451913984' ) ORDER BY xianshi_goods_id desc LIMIT 0,16  
+[2016-01-04 21:26:24] /shop/promotion.html ( act=promotion&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods' doesn't exist
+SELECT goods_id,gc_id_1,evaluation_good_star,store_id,store_name FROM `shopwwi_goods` WHERE ( goods_id IN('') ) AND ( goods_state = '1' ) AND ( goods_verify = '1' ) LIMIT 16  
+[2016-01-04 21:26:24] /shop/promotion.html ( act=promotion&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` WHERE ( geval_goodsid IN('') ) ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 21:26:32] /shop/tm.html ( act=show_groupbuy&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:26:32] /shop/tm.html ( act=show_groupbuy&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT COUNT(*) AS nc_count FROM `shopwwi_groupbuy` WHERE ( recommended = '1' ) AND ( is_vr = '0' ) AND ( state = '20' ) AND ( start_time < '1451913992' ) AND ( end_time > '1451913992' ) LIMIT 1  
+[2016-01-04 21:26:32] /shop/tm.html ( act=show_groupbuy&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( recommended = '1' ) AND ( is_vr = '0' ) AND ( state = '20' ) AND ( start_time < '1451913992' ) AND ( end_time > '1451913992' ) ORDER BY state asc LIMIT 0,11  
+[2016-01-04 21:26:32] /shop/tm.html ( act=show_groupbuy&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT COUNT(*) AS nc_count FROM `shopwwi_groupbuy` WHERE ( is_vr = '0' ) AND ( state = '20' ) AND ( start_time > '1451913992' ) LIMIT 1  
+[2016-01-04 21:26:32] /shop/tm.html ( act=show_groupbuy&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( is_vr = '0' ) AND ( state = '20' ) AND ( start_time > '1451913992' ) ORDER BY state asc LIMIT 0,4  
+[2016-01-04 21:26:32] /shop/tm.html ( act=show_groupbuy&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT COUNT(*) AS nc_count FROM `shopwwi_groupbuy` WHERE ( is_vr = '0' ) AND ( state = '20' ) AND ( start_time < '1451913992' ) AND ( end_time > '1451913992' ) LIMIT 1  
+[2016-01-04 21:26:32] /shop/tm.html ( act=show_groupbuy&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( is_vr = '0' ) AND ( state = '20' ) AND ( start_time < '1451913992' ) AND ( end_time > '1451913992' ) LIMIT 0,20  
+[2016-01-04 21:26:37] /shop/promotion.html ( act=promotion&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:26:37] /shop/promotion.html ( act=promotion&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT COUNT(*) AS nc_count FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time <= '1451913997' ) AND ( end_time > '1451913997' ) LIMIT 1  
+[2016-01-04 21:26:37] /shop/promotion.html ( act=promotion&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time <= '1451913997' ) AND ( end_time > '1451913997' ) ORDER BY xianshi_goods_id desc LIMIT 0,16  
+[2016-01-04 21:26:37] /shop/promotion.html ( act=promotion&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods' doesn't exist
+SELECT goods_id,gc_id_1,evaluation_good_star,store_id,store_name FROM `shopwwi_goods` WHERE ( goods_id IN('') ) AND ( goods_state = '1' ) AND ( goods_verify = '1' ) LIMIT 16  
+[2016-01-04 21:26:37] /shop/promotion.html ( act=promotion&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` WHERE ( geval_goodsid IN('') ) ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 21:26:40] /shop/brand.html ( act=brand&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:26:40] /shop/brand.html ( act=brand&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_brand' doesn't exist
+SELECT * FROM `shopwwi_brand` WHERE ( brand_apply = '1' ) ORDER BY brand_sort asc LIMIT 1000  
+[2016-01-04 21:26:42] /shop/index.php?act=category&op=index ( act=category&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:26:45] /shop/index.php?act=brand&op=index ( act=brand&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:26:45] /shop/index.php?act=brand&op=index ( act=brand&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_brand' doesn't exist
+SELECT * FROM `shopwwi_brand` WHERE ( brand_apply = '1' ) ORDER BY brand_sort asc LIMIT 1000  
+[2016-01-04 21:39:22] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:39:22] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451914762' ) AND ( end_time > '1451914762' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 21:39:22] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 21:39:22] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451914762' ) AND ( end_time > '1451914762' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 21:39:22] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 21:39:22] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 21:40:23] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:40:23] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451914823' ) AND ( end_time > '1451914823' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 21:40:23] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 21:40:23] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451914823' ) AND ( end_time > '1451914823' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 21:40:23] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 21:40:23] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 21:42:20] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:42:20] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451914940' ) AND ( end_time > '1451914940' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 21:42:20] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 21:42:20] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451914940' ) AND ( end_time > '1451914940' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 21:42:20] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 21:42:20] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 21:42:38] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:42:38] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451914958' ) AND ( end_time > '1451914958' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 21:42:38] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 21:42:38] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451914958' ) AND ( end_time > '1451914958' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 21:42:38] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 21:42:38] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 21:43:06] /shop/cate-478-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:43:06] /shop/cate-478-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_type_brand' doesn't exist
+SELECT brand_id FROM `shopwwi_type_brand` WHERE ( type_id = '1' ) LIMIT 1000  
+[2016-01-04 21:43:06] /shop/cate-478-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_attribute' doesn't exist
+SELECT attr_id,attr_name FROM `shopwwi_attribute` WHERE ( type_id = '1' ) AND ( attr_show = '1' ) ORDER BY attr_sort asc LIMIT 1000  
+[2016-01-04 21:43:06] /shop/cate-478-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_attribute_value' doesn't exist
+SELECT attr_value_id,attr_value_name,attr_id FROM `shopwwi_attribute_value` WHERE ( type_id = '1' ) ORDER BY attr_value_sort asc,attr_value_id asc LIMIT 1000  
+[2016-01-04 21:43:06] /shop/cate-478-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods' doesn't exist
+SELECT count(distinct CONCAT(goods_commonid,',',color_id)) AS nc_count FROM `shopwwi_goods` WHERE ( gc_id_3 = '478' ) AND ( goods_state = '1' ) AND ( goods_verify = '1' ) LIMIT 1  
+[2016-01-04 21:43:06] /shop/cate-478-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods_common' doesn't exist
+SELECT COUNT(*) AS nc_count FROM `shopwwi_goods_common` WHERE ( gc_id_3 = '478' ) LIMIT 1  
+[2016-01-04 21:43:06] /shop/cate-478-0-0-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods' doesn't exist
+SELECT * FROM `shopwwi_goods` WHERE ( gc_id_3 = '478' ) AND ( goods_state = '1' ) AND ( goods_verify = '1' ) ORDER BY goods_salenum desc LIMIT 4  
+[2016-01-04 21:43:20] /shop/index.php?act=compare&op=checkcompare ( act=compare&op=checkcompare ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:43:20] /shop/index.php?act=search&op=get_booth_goods&cate_id=478 ( act=search&op=get_booth_goods ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:43:20] /shop/index.php?act=search&op=get_booth_goods&cate_id=478 ( act=search&op=get_booth_goods ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_booth_goods' doesn't exist
+SELECT goods_id FROM `shopwwi_p_booth_goods` WHERE ( gc_id IN ('478') ) ORDER BY rand() LIMIT 4  
+[2016-01-04 21:43:21] /shop/index.php?act=search&op=get_guesslike ( act=search&op=get_guesslike ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:43:21] /shop/index.php?act=search&op=get_guesslike ( act=search&op=get_guesslike ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_booth_goods' doesn't exist
+SELECT * FROM `shopwwi_p_booth_goods` WHERE ( gc_id IN('') ) AND ( booth_state = '1' ) ORDER BY rand() LIMIT 20  
+[2016-01-04 21:43:21] /shop/index.php?act=search&op=get_guesslike ( act=search&op=get_guesslike ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods' doesn't exist
+SELECT * FROM `shopwwi_goods` WHERE ( goods_id IN('') ) AND ( goods_state = '1' ) AND ( goods_verify = '1' ) ORDER BY goods_id desc LIMIT 1000  
+[2016-01-04 21:43:24] /shop/tm.html ( act=show_groupbuy&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:43:24] /shop/tm.html ( act=show_groupbuy&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT COUNT(*) AS nc_count FROM `shopwwi_groupbuy` WHERE ( recommended = '1' ) AND ( is_vr = '0' ) AND ( state = '20' ) AND ( start_time < '1451915004' ) AND ( end_time > '1451915004' ) LIMIT 1  
+[2016-01-04 21:43:24] /shop/tm.html ( act=show_groupbuy&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( recommended = '1' ) AND ( is_vr = '0' ) AND ( state = '20' ) AND ( start_time < '1451915004' ) AND ( end_time > '1451915004' ) ORDER BY state asc LIMIT 0,11  
+[2016-01-04 21:43:24] /shop/tm.html ( act=show_groupbuy&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT COUNT(*) AS nc_count FROM `shopwwi_groupbuy` WHERE ( is_vr = '0' ) AND ( state = '20' ) AND ( start_time > '1451915004' ) LIMIT 1  
+[2016-01-04 21:43:24] /shop/tm.html ( act=show_groupbuy&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( is_vr = '0' ) AND ( state = '20' ) AND ( start_time > '1451915004' ) ORDER BY state asc LIMIT 0,4  
+[2016-01-04 21:43:24] /shop/tm.html ( act=show_groupbuy&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT COUNT(*) AS nc_count FROM `shopwwi_groupbuy` WHERE ( is_vr = '0' ) AND ( state = '20' ) AND ( start_time < '1451915004' ) AND ( end_time > '1451915004' ) LIMIT 1  
+[2016-01-04 21:43:24] /shop/tm.html ( act=show_groupbuy&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( is_vr = '0' ) AND ( state = '20' ) AND ( start_time < '1451915004' ) AND ( end_time > '1451915004' ) LIMIT 0,20  
+[2016-01-04 21:43:27] /shop/index.php?act=search&op=get_gc_goods_recommend&cate_id=478 ( act=search&op=get_gc_goods_recommend ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:43:27] /shop/index.php?act=search&op=get_gc_goods_recommend&cate_id=478 ( act=search&op=get_gc_goods_recommend ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_goods_recommend' doesn't exist
+SELECT * FROM `shopwwi_goods_recommend` WHERE ( rec_gc_id = '478' ) LIMIT 1000  
+[2016-01-04 21:44:46] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:44:46] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451915086' ) AND ( end_time > '1451915086' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 21:44:46] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 21:44:46] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451915086' ) AND ( end_time > '1451915086' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 21:44:46] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 21:44:46] /shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-01-04 21:50:41] /shop/shop-1.html ( act=show_store&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:50:41] /shop/shop-1.html ( act=show_store&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_store' doesn't exist
+SELECT * FROM `shopwwi_store` WHERE ( store_id = '1' ) LIMIT 1  
+[2016-01-04 21:50:42] /shop/shop-1.html ( act=show_store&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:50:42] /shop/shop-1.html ( act=show_store&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_store' doesn't exist
+SELECT * FROM `shopwwi_store` WHERE ( store_id = '1' ) LIMIT 1  
+[2016-01-04 21:53:48] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-01-04 21:53:48] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1451915628' ) AND ( end_time > '1451915628' ) ORDER BY recommended desc LIMIT 4  
+[2016-01-04 21:53:48] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-01-04 21:53:48] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1451915628' ) AND ( end_time > '1451915628' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-01-04 21:53:48] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-01-04 21:53:48] / ( act=index&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  

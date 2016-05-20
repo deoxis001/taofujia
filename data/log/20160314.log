@@ -1,0 +1,207 @@
+[2016-03-14 09:32:17] /zhonghua/shop/index.php?act=seller_wechat&op=index ( act=seller_wechat&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_wechat' doesn't exist
+SELECT * FROM `shopwwi_wechat` WHERE ( user_id = '2' ) LIMIT 1  
+[2016-03-14 09:32:29] /zhonghua/shop/index.php?act=seller_wechat_follow&op=follow_index ( act=seller_wechat_follow&op=follow_index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_wechat' doesn't exist
+SELECT * FROM `shopwwi_wechat` WHERE ( user_id = '2' ) LIMIT 1  
+[2016-03-14 09:32:30] /zhonghua/shop/index.php?act=seller_wechat&op=index ( act=seller_wechat&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_wechat' doesn't exist
+SELECT * FROM `shopwwi_wechat` WHERE ( user_id = '2' ) LIMIT 1  
+[2016-03-14 09:32:32] /zhonghua/shop/index.php?act=seller_wechat_follow&op=follow_index ( act=seller_wechat_follow&op=follow_index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_wechat' doesn't exist
+SELECT * FROM `shopwwi_wechat` WHERE ( user_id = '2' ) LIMIT 1  
+[2016-03-14 09:32:34] /zhonghua/shop/index.php?act=seller_wechat&op=index ( act=seller_wechat&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_wechat' doesn't exist
+SELECT * FROM `shopwwi_wechat` WHERE ( user_id = '2' ) LIMIT 1  
+[2016-03-14 09:32:36] /zhonghua/shop/index.php?act=seller_wechat_keyword&op=keyword_index ( act=seller_wechat_keyword&op=keyword_index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_wechat' doesn't exist
+SELECT * FROM `shopwwi_wechat` WHERE ( user_id = '2' ) LIMIT 1  
+[2016-03-14 09:32:37] /zhonghua/shop/index.php?act=seller_wechat&op=index ( act=seller_wechat&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_wechat' doesn't exist
+SELECT * FROM `shopwwi_wechat` WHERE ( user_id = '2' ) LIMIT 1  
+[2016-03-14 09:32:40] /zhonghua/shop/index.php?act=seller_wechat_message&op=message_index ( act=seller_wechat_message&op=message_index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_wechat' doesn't exist
+SELECT * FROM `shopwwi_wechat` WHERE ( user_id = '2' ) LIMIT 1  
+[2016-03-14 09:32:41] /zhonghua/shop/index.php?act=seller_wechat&op=index ( act=seller_wechat&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_wechat' doesn't exist
+SELECT * FROM `shopwwi_wechat` WHERE ( user_id = '2' ) LIMIT 1  
+[2016-03-14 09:32:43] /zhonghua/shop/index.php?act=seller_wechat_keyword&op=keyword_index ( act=seller_wechat_keyword&op=keyword_index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_wechat' doesn't exist
+SELECT * FROM `shopwwi_wechat` WHERE ( user_id = '2' ) LIMIT 1  
+[2016-03-14 09:32:44] /zhonghua/shop/index.php?act=seller_wechat&op=index ( act=seller_wechat&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_wechat' doesn't exist
+SELECT * FROM `shopwwi_wechat` WHERE ( user_id = '2' ) LIMIT 1  
+[2016-03-14 09:32:47] /zhonghua/shop/index.php?act=seller_wechat_follow&op=follow_index ( act=seller_wechat_follow&op=follow_index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_wechat' doesn't exist
+SELECT * FROM `shopwwi_wechat` WHERE ( user_id = '2' ) LIMIT 1  
+[2016-03-14 09:32:48] /zhonghua/shop/index.php?act=seller_wechat&op=index ( act=seller_wechat&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_wechat' doesn't exist
+SELECT * FROM `shopwwi_wechat` WHERE ( user_id = '2' ) LIMIT 1  
+[2016-03-14 09:53:32] /zhonghua/shop/index.php?act=seller_wechat_menu&op=index ( act=seller_wechat_menu&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_wechat' doesn't exist
+SELECT * FROM `shopwwi_wechat` WHERE ( user_id = '2' ) LIMIT 1  
+[2016-03-14 09:53:32] /zhonghua/shop/index.php?act=seller_wechat_menu&op=index ( act=seller_wechat_menu&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_wechat_config' doesn't exist
+SELECT * FROM `shopwwi_wechat_config` WHERE ( user_id = '2' ) LIMIT 1  
+[2016-03-14 09:53:32] /zhonghua/shop/index.php?act=seller_wechat_menu&op=index ( act=seller_wechat_menu&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_wechat_menu' doesn't exist
+SELECT * FROM `shopwwi_wechat_menu` WHERE ( store_id = '2' ) LIMIT 1000  
+[2016-03-14 09:53:33] /zhonghua/shop/index.php?act=seller_wechat&op=index ( act=seller_wechat&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_wechat' doesn't exist
+SELECT * FROM `shopwwi_wechat` WHERE ( user_id = '2' ) LIMIT 1  
+[2016-03-14 14:35:07] /zhonghua/shop/index.php?act=category&op=index ( act=category&op=index ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-03-14 14:35:07] /zhonghua/shop/index.php?act=category&op=index ( act=category&op=index ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_member' doesn't exist
+SELECT * FROM `shopwwi_member` WHERE ( member_id = '3' ) LIMIT 1  
+[2016-03-14 14:35:08] /zhonghua/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-03-14 14:35:08] /zhonghua/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_member' doesn't exist
+SELECT * FROM `shopwwi_member` WHERE ( member_id = '3' ) LIMIT 1  
+[2016-03-14 14:35:08] /zhonghua/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1457937307' ) AND ( end_time > '1457937307' ) ORDER BY recommended desc LIMIT 4  
+[2016-03-14 14:35:08] /zhonghua/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-03-14 14:35:08] /zhonghua/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1457937307' ) AND ( end_time > '1457937307' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-03-14 14:35:08] /zhonghua/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_brand' doesn't exist
+SELECT brand_id,brand_name,brand_pic,brand_xbgpic,brand_tjstore FROM `shopwwi_brand` WHERE ( brand_recommend = '1' ) AND ( brand_apply = '1' ) ORDER BY brand_sort asc, brand_id desc LIMIT 4  
+[2016-03-14 14:35:08] /zhonghua/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-03-14 14:35:08] /zhonghua/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-03-14 14:35:15] /zhonghua/shop/index.php?act=cart&op=ajax_load&callback=jQuery1820024727344081753255_1457937309155&_=1457937314471 ( act=cart&op=ajax_load ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_member' doesn't exist
+SELECT * FROM `shopwwi_member` WHERE ( member_id = '3' ) LIMIT 1  
+[2016-03-14 14:35:15] /zhonghua/shop/index.php?act=cart&op=ajax_load&callback=jQuery1820024727344081753255_1457937309155&_=1457937314471 ( act=cart&op=ajax_load ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_cart' doesn't exist
+SELECT * FROM `shopwwi_cart` WHERE ( buyer_id = '3' ) LIMIT 1000  
+[2016-03-14 14:35:16] /zhonghua/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-03-14 14:35:16] /zhonghua/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_member' doesn't exist
+SELECT * FROM `shopwwi_member` WHERE ( member_id = '3' ) LIMIT 1  
+[2016-03-14 14:35:16] /zhonghua/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1457937315' ) AND ( end_time > '1457937315' ) ORDER BY recommended desc LIMIT 4  
+[2016-03-14 14:35:16] /zhonghua/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-03-14 14:35:16] /zhonghua/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1457937315' ) AND ( end_time > '1457937315' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-03-14 14:35:16] /zhonghua/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_brand' doesn't exist
+SELECT brand_id,brand_name,brand_pic,brand_xbgpic,brand_tjstore FROM `shopwwi_brand` WHERE ( brand_recommend = '1' ) AND ( brand_apply = '1' ) ORDER BY brand_sort asc, brand_id desc LIMIT 4  
+[2016-03-14 14:35:16] /zhonghua/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-03-14 14:35:16] /zhonghua/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-03-14 14:35:35] /zhonghua/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-03-14 14:35:35] /zhonghua/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_member' doesn't exist
+SELECT * FROM `shopwwi_member` WHERE ( member_id = '3' ) LIMIT 1  
+[2016-03-14 14:35:35] /zhonghua/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_groupbuy' doesn't exist
+SELECT * FROM `shopwwi_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1457937334' ) AND ( end_time > '1457937334' ) ORDER BY recommended desc LIMIT 4  
+[2016-03-14 14:35:35] /zhonghua/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_cms_special' doesn't exist
+SELECT * FROM `shopwwi_cms_special` WHERE ( special_type = '2' ) ORDER BY special_id desc LIMIT 2  
+[2016-03-14 14:35:35] /zhonghua/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopwwi_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1457937334' ) AND ( end_time > '1457937334' ) ORDER BY xianshi_recommend desc LIMIT 6  
+[2016-03-14 14:35:35] /zhonghua/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_brand' doesn't exist
+SELECT brand_id,brand_name,brand_pic,brand_xbgpic,brand_tjstore FROM `shopwwi_brand` WHERE ( brand_recommend = '1' ) AND ( brand_apply = '1' ) ORDER BY brand_sort asc, brand_id desc LIMIT 4  
+[2016-03-14 14:35:35] /zhonghua/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_evaluate_goods' doesn't exist
+SELECT * FROM `shopwwi_evaluate_goods` ORDER BY geval_id desc LIMIT 1000  
+[2016-03-14 14:35:35] /zhonghua/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_web' doesn't exist
+SELECT * FROM `shopwwi_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-03-14 14:35:38] /zhonghua/shop/index.php?act=search&op=index&cate_id=1 ( act=search&op=index ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-03-14 14:35:38] /zhonghua/shop/index.php?act=search&op=index&cate_id=1 ( act=search&op=index ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_member' doesn't exist
+SELECT * FROM `shopwwi_member` WHERE ( member_id = '3' ) LIMIT 1  
+[2016-03-14 14:35:38] /zhonghua/shop/index.php?act=search&op=index&cate_id=1 ( act=search&op=index ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_type_brand' doesn't exist
+SELECT brand_id FROM `shopwwi_type_brand` WHERE ( type_id = '0' ) LIMIT 1000  
+[2016-03-14 14:35:38] /zhonghua/shop/index.php?act=search&op=index&cate_id=1 ( act=search&op=index ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_attribute' doesn't exist
+SELECT attr_id,attr_name FROM `shopwwi_attribute` WHERE ( type_id = '0' ) AND ( attr_show = '1' ) ORDER BY attr_sort asc LIMIT 1000  
+[2016-03-14 14:35:38] /zhonghua/shop/index.php?act=search&op=index&cate_id=1 ( act=search&op=index ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_attribute_value' doesn't exist
+SELECT attr_value_id,attr_value_name,attr_id FROM `shopwwi_attribute_value` WHERE ( type_id = '0' ) ORDER BY attr_value_sort asc,attr_value_id asc LIMIT 1000  
+[2016-03-14 14:35:38] /zhonghua/shop/index.php?act=search&op=index&cate_id=1 ( act=search&op=index ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_goods' doesn't exist
+SELECT count(distinct CONCAT(goods_commonid,',',color_id)) AS nc_count FROM `shopwwi_goods` WHERE ( gc_id_1 = '1' ) AND ( goods_state = '1' ) AND ( goods_verify = '1' ) LIMIT 1  
+[2016-03-14 14:35:38] /zhonghua/shop/index.php?act=search&op=index&cate_id=1 ( act=search&op=index ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_goods_common' doesn't exist
+SELECT COUNT(*) AS nc_count FROM `shopwwi_goods_common` WHERE ( gc_id_1 = '1' ) LIMIT 1  
+[2016-03-14 14:35:38] /zhonghua/shop/index.php?act=search&op=index&cate_id=1 ( act=search&op=index ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_goods' doesn't exist
+SELECT * FROM `shopwwi_goods` WHERE ( gc_id_1 = '1' ) AND ( goods_state = '1' ) AND ( goods_verify = '1' ) ORDER BY goods_salenum desc LIMIT 5  
+[2016-03-14 14:35:38] /zhonghua/shop/index.php?act=search&op=index&cate_id=1 ( act=search&op=index ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_goods_browse' doesn't exist
+SELECT * FROM `shopwwi_goods_browse` WHERE ( member_id = '3' ) ORDER BY browsetime desc LIMIT 20  
+[2016-03-14 14:35:40] /zhonghua/shop/index.php?act=compare&op=checkcompare ( act=compare&op=checkcompare ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-03-14 14:35:40] /zhonghua/shop/index.php?act=compare&op=checkcompare ( act=compare&op=checkcompare ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_member' doesn't exist
+SELECT * FROM `shopwwi_member` WHERE ( member_id = '3' ) LIMIT 1  
+[2016-03-14 14:35:41] /zhonghua/shop/index.php?act=search&op=get_guesslike ( act=search&op=get_guesslike ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-03-14 14:35:41] /zhonghua/shop/index.php?act=search&op=get_guesslike ( act=search&op=get_guesslike ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_member' doesn't exist
+SELECT * FROM `shopwwi_member` WHERE ( member_id = '3' ) LIMIT 1  
+[2016-03-14 14:35:41] /zhonghua/shop/index.php?act=search&op=get_guesslike ( act=search&op=get_guesslike ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_goods_browse' doesn't exist
+SELECT gc_id FROM `shopwwi_goods_browse` WHERE ( member_id = '3' ) GROUP BY gc_id ORDER BY rand() LIMIT 20  
+[2016-03-14 14:35:41] /zhonghua/shop/index.php?act=search&op=get_guesslike ( act=search&op=get_guesslike ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_p_booth_goods' doesn't exist
+SELECT * FROM `shopwwi_p_booth_goods` WHERE ( gc_id IN('') ) AND ( booth_state = '1' ) ORDER BY rand() LIMIT 20  
+[2016-03-14 14:35:41] /zhonghua/shop/index.php?act=search&op=get_guesslike ( act=search&op=get_guesslike ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_goods' doesn't exist
+SELECT * FROM `shopwwi_goods` WHERE ( goods_id IN('') ) AND ( goods_state = '1' ) AND ( goods_verify = '1' ) ORDER BY goods_id desc LIMIT 1000  
+[2016-03-14 14:35:42] /zhonghua/shop/index.php?act=search&op=get_gc_goods_recommend&cate_id=1 ( act=search&op=get_gc_goods_recommend ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-03-14 14:35:42] /zhonghua/shop/index.php?act=search&op=get_gc_goods_recommend&cate_id=1 ( act=search&op=get_gc_goods_recommend ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_member' doesn't exist
+SELECT * FROM `shopwwi_member` WHERE ( member_id = '3' ) LIMIT 1  
+[2016-03-14 14:35:42] /zhonghua/shop/index.php?act=search&op=get_gc_goods_recommend&cate_id=1 ( act=search&op=get_gc_goods_recommend ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_goods_recommend' doesn't exist
+SELECT * FROM `shopwwi_goods_recommend` WHERE ( rec_gc_id = '1' ) LIMIT 1000  
+[2016-03-14 14:35:43] /zhonghua/shop/index.php?act=search&op=get_booth_goods&cate_id=1 ( act=search&op=get_booth_goods ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_web_channel' doesn't exist
+SELECT * FROM `shopwwi_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2016-03-14 14:35:43] /zhonghua/shop/index.php?act=search&op=get_booth_goods&cate_id=1 ( act=search&op=get_booth_goods ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_member' doesn't exist
+SELECT * FROM `shopwwi_member` WHERE ( member_id = '3' ) LIMIT 1  
+[2016-03-14 14:35:43] /zhonghua/shop/index.php?act=search&op=get_booth_goods&cate_id=1 ( act=search&op=get_booth_goods ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_p_booth_goods' doesn't exist
+SELECT goods_id FROM `shopwwi_p_booth_goods` WHERE ( gc_id IN ('1') ) ORDER BY rand() LIMIT 5  
+[2016-03-14 14:35:44] /zhonghua/shop/index.php?act=cart&op=ajax_load&callback=jQuery18206390944653952852_1457937338836&_=1457937341839 ( act=cart&op=ajax_load ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_member' doesn't exist
+SELECT * FROM `shopwwi_member` WHERE ( member_id = '3' ) LIMIT 1  
+[2016-03-14 14:35:44] /zhonghua/shop/index.php?act=cart&op=ajax_load&callback=jQuery18206390944653952852_1457937338836&_=1457937341839 ( act=cart&op=ajax_load ) 
+ERR: Db Error: Table 'zhjjw.shopwwi_cart' doesn't exist
+SELECT * FROM `shopwwi_cart` WHERE ( buyer_id = '3' ) LIMIT 1000  

@@ -1,0 +1,66 @@
+[2016-03-15 10:47:17] /zhonghua/circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle'
+SELECT circle.*, is_hot*rand() as rand FROM `zgjjw_circle` WHERE ( circle_status = '1' ) AND ( is_hot = '1' ) ORDER BY rand desc LIMIT 3  
+[2016-03-15 10:47:17] /zhonghua/circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle'
+SELECT circle.*, is_recommend*rand() as rand FROM `zgjjw_circle` WHERE ( circle_status = '1' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 20  
+[2016-03-15 10:47:17] /zhonghua/circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle_theme'
+SELECT circle_theme.*, is_recommend*rand() as rand FROM `zgjjw_circle_theme` WHERE ( has_affix = '1' ) AND ( is_closed = '0' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 8  
+[2016-03-15 10:47:17] /zhonghua/circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle_member'
+SELECT circle_member.*, is_recommend*rand() as rand FROM `zgjjw_circle_member` WHERE ( is_recommend = '1' ) ORDER BY rand desc LIMIT 5  
+[2016-03-15 10:48:19] /zhonghua/circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle'
+SELECT circle.*, is_hot*rand() as rand FROM `zgjjw_circle` WHERE ( circle_status = '1' ) AND ( is_hot = '1' ) ORDER BY rand desc LIMIT 3  
+[2016-03-15 10:48:19] /zhonghua/circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle'
+SELECT circle.*, is_recommend*rand() as rand FROM `zgjjw_circle` WHERE ( circle_status = '1' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 20  
+[2016-03-15 10:48:19] /zhonghua/circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle_theme'
+SELECT circle_theme.*, is_recommend*rand() as rand FROM `zgjjw_circle_theme` WHERE ( has_affix = '1' ) AND ( is_closed = '0' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 8  
+[2016-03-15 10:48:19] /zhonghua/circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle_member'
+SELECT circle_member.*, is_recommend*rand() as rand FROM `zgjjw_circle_member` WHERE ( is_recommend = '1' ) ORDER BY rand desc LIMIT 5  
+[2016-03-15 10:49:37] /zhonghua/circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle'
+SELECT circle.*, is_hot*rand() as rand FROM `zgjjw_circle` WHERE ( circle_status = '1' ) AND ( is_hot = '1' ) ORDER BY rand desc LIMIT 3  
+[2016-03-15 10:49:37] /zhonghua/circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle'
+SELECT circle.*, is_recommend*rand() as rand FROM `zgjjw_circle` WHERE ( circle_status = '1' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 20  
+[2016-03-15 10:49:37] /zhonghua/circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle_theme'
+SELECT circle_theme.*, is_recommend*rand() as rand FROM `zgjjw_circle_theme` WHERE ( has_affix = '1' ) AND ( is_closed = '0' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 8  
+[2016-03-15 10:49:37] /zhonghua/circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle_member'
+SELECT circle_member.*, is_recommend*rand() as rand FROM `zgjjw_circle_member` WHERE ( is_recommend = '1' ) ORDER BY rand desc LIMIT 5  
+[2016-03-15 11:08:15] /zhonghua/circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle'
+SELECT circle.*, is_hot*rand() as rand FROM `zgjjw_circle` WHERE ( circle_status = '1' ) AND ( is_hot = '1' ) ORDER BY rand desc LIMIT 3  
+[2016-03-15 11:08:15] /zhonghua/circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle'
+SELECT circle.*, is_recommend*rand() as rand FROM `zgjjw_circle` WHERE ( circle_status = '1' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 20  
+[2016-03-15 11:08:15] /zhonghua/circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle_theme'
+SELECT circle_theme.*, is_recommend*rand() as rand FROM `zgjjw_circle_theme` WHERE ( has_affix = '1' ) AND ( is_closed = '0' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 8  
+[2016-03-15 11:08:15] /zhonghua/circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle_member'
+SELECT circle_member.*, is_recommend*rand() as rand FROM `zgjjw_circle_member` WHERE ( is_recommend = '1' ) ORDER BY rand desc LIMIT 5  
+[2016-03-15 13:47:03] /zhonghua/shop/index.php?act=order_call&op=getajaxorder ( act=order_call&op=getajaxorder ) 
+ERR: Db Error: Unknown column 'is_print' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `zgjjw_orders` WHERE ( store_id = '3' ) AND ( order_state = '20' ) AND ( is_print = '0' ) LIMIT 1  
+[2016-03-15 13:47:03] /zhonghua/shop/index.php?act=order_call&op=getajaxorder ( act=order_call&op=getajaxorder ) 
+ERR: Db Error: Unknown column 'is_print' in 'where clause'
+SELECT * FROM `zgjjw_orders` WHERE ( store_id = '3' ) AND ( order_state = '20' ) AND ( is_print = '0' ) ORDER BY order_id desc LIMIT 0,20  
+[2016-03-15 13:47:23] /zhonghua/shop/index.php?act=order_call&op=getajaxorder ( act=order_call&op=getajaxorder ) 
+ERR: Db Error: Unknown column 'is_print' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `zgjjw_orders` WHERE ( store_id = '3' ) AND ( order_state = '20' ) AND ( is_print = '0' ) LIMIT 1  
+[2016-03-15 13:47:23] /zhonghua/shop/index.php?act=order_call&op=getajaxorder ( act=order_call&op=getajaxorder ) 
+ERR: Db Error: Unknown column 'is_print' in 'where clause'
+SELECT * FROM `zgjjw_orders` WHERE ( store_id = '3' ) AND ( order_state = '20' ) AND ( is_print = '0' ) ORDER BY order_id desc LIMIT 0,20  
+[2016-03-15 13:47:44] /zhonghua/shop/index.php?act=order_call&op=getajaxorder ( act=order_call&op=getajaxorder ) 
+ERR: Db Error: Unknown column 'is_print' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `zgjjw_orders` WHERE ( store_id = '3' ) AND ( order_state = '20' ) AND ( is_print = '0' ) LIMIT 1  
+[2016-03-15 13:47:44] /zhonghua/shop/index.php?act=order_call&op=getajaxorder ( act=order_call&op=getajaxorder ) 
+ERR: Db Error: Unknown column 'is_print' in 'where clause'
+SELECT * FROM `zgjjw_orders` WHERE ( store_id = '3' ) AND ( order_state = '20' ) AND ( is_print = '0' ) ORDER BY order_id desc LIMIT 0,20  

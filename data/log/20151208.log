@@ -1,0 +1,6 @@
+[2015-12-08 12:10:10] /admin/modules/system/index.php?act=link ( act=link&op=index ) 
+ERR: Db Error: La table 'shopwwi.shopwwi_link' n'existe pas
+SELECT count(*) as count FROM `shopwwi_link` as `link`  
+[2015-12-08 12:10:10] /admin/modules/system/index.php?act=link ( act=link&op=index ) 
+ERR: Db Error: La table 'shopwwi.shopwwi_link' n'existe pas
+SELECT * FROM `shopwwi_link` as `link`   order by link_sort asc limit 0,10

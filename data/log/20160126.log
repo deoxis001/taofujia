@@ -1,0 +1,129 @@
+[2016-01-26 00:05:15] /shop/cate-494-0-12-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Unknown column 'goods_id' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `shopwwi_goods_common` WHERE ( gc_id_3 = '494' ) AND ( goods_id IN ('100093','100094','100102','100103','100110','100119','100125','100126','100131','100132','100134','100135','100138','100145','100146') ) LIMIT 1  
+[2016-01-26 00:54:55] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'shopwwi.circle'
+SELECT circle.*, is_hot*rand() as rand FROM `shopwwi_circle` WHERE ( circle_status = '1' ) AND ( is_hot = '1' ) ORDER BY rand desc LIMIT 3  
+[2016-01-26 00:54:55] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'shopwwi.circle'
+SELECT circle.*, is_recommend*rand() as rand FROM `shopwwi_circle` WHERE ( circle_status = '1' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 20  
+[2016-01-26 00:54:55] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'shopwwi.circle_theme'
+SELECT circle_theme.*, is_recommend*rand() as rand FROM `shopwwi_circle_theme` WHERE ( has_affix = '1' ) AND ( is_closed = '0' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 8  
+[2016-01-26 00:54:55] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'shopwwi.circle_member'
+SELECT circle_member.*, is_recommend*rand() as rand FROM `shopwwi_circle_member` WHERE ( is_recommend = '1' ) ORDER BY rand desc LIMIT 5  
+[2016-01-26 02:27:47] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'shopwwi.circle'
+SELECT circle.*, is_hot*rand() as rand FROM `shopwwi_circle` WHERE ( circle_status = '1' ) AND ( is_hot = '1' ) ORDER BY rand desc LIMIT 3  
+[2016-01-26 02:27:47] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'shopwwi.circle'
+SELECT circle.*, is_recommend*rand() as rand FROM `shopwwi_circle` WHERE ( circle_status = '1' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 20  
+[2016-01-26 02:27:47] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'shopwwi.circle_theme'
+SELECT circle_theme.*, is_recommend*rand() as rand FROM `shopwwi_circle_theme` WHERE ( has_affix = '1' ) AND ( is_closed = '0' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 8  
+[2016-01-26 02:27:47] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'shopwwi.circle_member'
+SELECT circle_member.*, is_recommend*rand() as rand FROM `shopwwi_circle_member` WHERE ( is_recommend = '1' ) ORDER BY rand desc LIMIT 5  
+[2016-01-26 18:13:06] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'shopwwi.circle'
+SELECT circle.*, is_hot*rand() as rand FROM `shopwwi_circle` WHERE ( circle_status = '1' ) AND ( is_hot = '1' ) ORDER BY rand desc LIMIT 3  
+[2016-01-26 18:13:06] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'shopwwi.circle'
+SELECT circle.*, is_recommend*rand() as rand FROM `shopwwi_circle` WHERE ( circle_status = '1' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 20  
+[2016-01-26 18:13:06] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'shopwwi.circle_theme'
+SELECT circle_theme.*, is_recommend*rand() as rand FROM `shopwwi_circle_theme` WHERE ( has_affix = '1' ) AND ( is_closed = '0' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 8  
+[2016-01-26 18:13:06] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'shopwwi.circle_member'
+SELECT circle_member.*, is_recommend*rand() as rand FROM `shopwwi_circle_member` WHERE ( is_recommend = '1' ) ORDER BY rand desc LIMIT 5  
+[2016-01-26 18:28:30] /shop/cate-480-0-23_8_1-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Unknown column 'goods_id' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `shopwwi_goods_common` WHERE ( gc_id_3 = '480' ) AND ( goods_id IN ('100093') ) LIMIT 1  
+[2016-01-26 18:50:03] /shop/?act=store_list&keyword=d ( act=store_list&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_order' doesn't exist
+SELECT store_id,count(*) as order_count FROM `shopwwi_order` WHERE ( store_id IN ('3') ) AND ( add_time > '1446029403' ) GROUP BY store_id LIMIT 1000  
+[2016-01-26 19:22:34] /shop/cate-480-0-22_1-0-0-0-0-0-0.html ( act=search&op=index ) 
+ERR: Db Error: Unknown column 'goods_id' in 'where clause'
+SELECT COUNT(*) AS nc_count FROM `shopwwi_goods_common` WHERE ( gc_id_3 = '480' ) AND ( goods_id IN('') ) LIMIT 1  
+[2016-01-26 19:55:54] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'shopwwi.circle'
+SELECT circle.*, is_hot*rand() as rand FROM `shopwwi_circle` WHERE ( circle_status = '1' ) AND ( is_hot = '1' ) ORDER BY rand desc LIMIT 3  
+[2016-01-26 19:55:54] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'shopwwi.circle'
+SELECT circle.*, is_recommend*rand() as rand FROM `shopwwi_circle` WHERE ( circle_status = '1' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 20  
+[2016-01-26 19:55:54] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'shopwwi.circle_theme'
+SELECT circle_theme.*, is_recommend*rand() as rand FROM `shopwwi_circle_theme` WHERE ( has_affix = '1' ) AND ( is_closed = '0' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 8  
+[2016-01-26 19:55:54] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'shopwwi.circle_member'
+SELECT circle_member.*, is_recommend*rand() as rand FROM `shopwwi_circle_member` WHERE ( is_recommend = '1' ) ORDER BY rand desc LIMIT 5  
+[2016-01-26 20:05:17] /admin/modules/system/index.php?act=store&op=get_distribution_xml ( act=store&op=get_distribution_xml ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_store_distribution' doesn't exist
+SELECT COUNT(*) AS nc_count FROM `shopwwi_store_distribution` ORDER BY distri_id desc LIMIT 1  
+[2016-01-26 20:05:17] /admin/modules/system/index.php?act=store&op=get_distribution_xml ( act=store&op=get_distribution_xml ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_store_distribution' doesn't exist
+SELECT * FROM `shopwwi_store_distribution` ORDER BY distri_id desc LIMIT 0,15  
+[2016-01-26 20:07:49] /shop/index.php?act=seller_center ( act=seller_center&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_store_distribution' doesn't exist
+SELECT * FROM `shopwwi_store_distribution` WHERE ( distri_store_id = '1' ) LIMIT 1  
+[2016-01-26 20:08:35] /shop/index.php?act=seller_center ( act=seller_center&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_store_distribution' doesn't exist
+SELECT * FROM `shopwwi_store_distribution` WHERE ( distri_store_id = '1' ) LIMIT 1  
+[2016-01-26 20:10:50] /shop/index.php?act=store_goods_online&op=index ( act=store_goods_online&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_store_distribution' doesn't exist
+SELECT * FROM `shopwwi_store_distribution` WHERE ( distri_store_id = '1' ) LIMIT 1  
+[2016-01-26 20:10:53] /shop/index.php?act=store_goods_online&op=get_goods_list_ajax&commonid=100094 ( act=store_goods_online&op=get_goods_list_ajax ) 
+ERR: Db Error: Unknown column 'invite_price1' in 'field list'
+SELECT goods_id,goods_spec,store_id,goods_price,goods_serial,goods_storage_alarm,goods_storage,goods_image,invite_price1,invite_price2,invite_price3 FROM `shopwwi_goods` WHERE ( store_id = '1' ) AND ( goods_commonid = '100094' ) LIMIT 1000  
+[2016-01-26 20:10:57] /shop/index.php?act=store_goods_online&op=get_goods_list_ajax&commonid=100067 ( act=store_goods_online&op=get_goods_list_ajax ) 
+ERR: Db Error: Unknown column 'invite_price1' in 'field list'
+SELECT goods_id,goods_spec,store_id,goods_price,goods_serial,goods_storage_alarm,goods_storage,goods_image,invite_price1,invite_price2,invite_price3 FROM `shopwwi_goods` WHERE ( store_id = '1' ) AND ( goods_commonid = '100067' ) LIMIT 1000  
+[2016-01-26 20:11:02] /shop/index.php?act=store_goods_online&op=get_goods_list_ajax&commonid=100064 ( act=store_goods_online&op=get_goods_list_ajax ) 
+ERR: Db Error: Unknown column 'invite_price1' in 'field list'
+SELECT goods_id,goods_spec,store_id,goods_price,goods_serial,goods_storage_alarm,goods_storage,goods_image,invite_price1,invite_price2,invite_price3 FROM `shopwwi_goods` WHERE ( store_id = '1' ) AND ( goods_commonid = '100064' ) LIMIT 1000  
+[2016-01-26 20:11:06] /shop/index.php?act=store_goods_online&op=get_goods_list_ajax&commonid=100059 ( act=store_goods_online&op=get_goods_list_ajax ) 
+ERR: Db Error: Unknown column 'invite_price1' in 'field list'
+SELECT goods_id,goods_spec,store_id,goods_price,goods_serial,goods_storage_alarm,goods_storage,goods_image,invite_price1,invite_price2,invite_price3 FROM `shopwwi_goods` WHERE ( store_id = '1' ) AND ( goods_commonid = '100059' ) LIMIT 1000  
+[2016-01-26 20:31:46] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'shopwwi.circle'
+SELECT circle.*, is_hot*rand() as rand FROM `shopwwi_circle` WHERE ( circle_status = '1' ) AND ( is_hot = '1' ) ORDER BY rand desc LIMIT 3  
+[2016-01-26 20:31:46] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'shopwwi.circle'
+SELECT circle.*, is_recommend*rand() as rand FROM `shopwwi_circle` WHERE ( circle_status = '1' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 20  
+[2016-01-26 20:31:46] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'shopwwi.circle_theme'
+SELECT circle_theme.*, is_recommend*rand() as rand FROM `shopwwi_circle_theme` WHERE ( has_affix = '1' ) AND ( is_closed = '0' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 8  
+[2016-01-26 20:31:46] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'shopwwi.circle_member'
+SELECT circle_member.*, is_recommend*rand() as rand FROM `shopwwi_circle_member` WHERE ( is_recommend = '1' ) ORDER BY rand desc LIMIT 5  
+[2016-01-26 20:47:05] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'shopwwi.circle'
+SELECT circle.*, is_hot*rand() as rand FROM `shopwwi_circle` WHERE ( circle_status = '1' ) AND ( is_hot = '1' ) ORDER BY rand desc LIMIT 3  
+[2016-01-26 20:47:05] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'shopwwi.circle'
+SELECT circle.*, is_recommend*rand() as rand FROM `shopwwi_circle` WHERE ( circle_status = '1' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 20  
+[2016-01-26 20:47:05] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'shopwwi.circle_theme'
+SELECT circle_theme.*, is_recommend*rand() as rand FROM `shopwwi_circle_theme` WHERE ( has_affix = '1' ) AND ( is_closed = '0' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 8  
+[2016-01-26 20:47:05] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'shopwwi.circle_member'
+SELECT circle_member.*, is_recommend*rand() as rand FROM `shopwwi_circle_member` WHERE ( is_recommend = '1' ) ORDER BY rand desc LIMIT 5  
+[2016-01-26 21:25:38] /shop/index.php?act=store_goods_online&op=index ( act=store_goods_online&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_store_distribution' doesn't exist
+SELECT * FROM `shopwwi_store_distribution` WHERE ( distri_store_id = '1' ) LIMIT 1  
+[2016-01-26 21:25:39] /shop/index.php?act=store_goods_online&op=get_goods_list_ajax&commonid=100094 ( act=store_goods_online&op=get_goods_list_ajax ) 
+ERR: Db Error: Unknown column 'invite_price1' in 'field list'
+SELECT goods_id,goods_spec,store_id,goods_price,goods_serial,goods_storage_alarm,goods_storage,goods_image,invite_price1,invite_price2,invite_price3 FROM `shopwwi_goods` WHERE ( store_id = '1' ) AND ( goods_commonid = '100094' ) LIMIT 1000  
+[2016-01-26 21:25:55] /shop/index.php?act=store_goods_online&op=index&curpage=7 ( act=store_goods_online&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_store_distribution' doesn't exist
+SELECT * FROM `shopwwi_store_distribution` WHERE ( distri_store_id = '1' ) LIMIT 1  
+[2016-01-26 21:25:57] /shop/index.php?act=store_goods_online&op=get_goods_list_ajax&commonid=100001 ( act=store_goods_online&op=get_goods_list_ajax ) 
+ERR: Db Error: Unknown column 'invite_price1' in 'field list'
+SELECT goods_id,goods_spec,store_id,goods_price,goods_serial,goods_storage_alarm,goods_storage,goods_image,invite_price1,invite_price2,invite_price3 FROM `shopwwi_goods` WHERE ( store_id = '1' ) AND ( goods_commonid = '100001' ) LIMIT 1000  
+[2016-01-26 21:25:59] /shop/index.php?act=store_goods_online&op=get_goods_list_ajax&commonid=100000 ( act=store_goods_online&op=get_goods_list_ajax ) 
+ERR: Db Error: Unknown column 'invite_price1' in 'field list'
+SELECT goods_id,goods_spec,store_id,goods_price,goods_serial,goods_storage_alarm,goods_storage,goods_image,invite_price1,invite_price2,invite_price3 FROM `shopwwi_goods` WHERE ( store_id = '1' ) AND ( goods_commonid = '100000' ) LIMIT 1000  
+[2016-01-26 21:26:02] /shop/index.php?act=store_goods_online&op=get_goods_list_ajax&commonid=100002 ( act=store_goods_online&op=get_goods_list_ajax ) 
+ERR: Db Error: Unknown column 'invite_price1' in 'field list'
+SELECT goods_id,goods_spec,store_id,goods_price,goods_serial,goods_storage_alarm,goods_storage,goods_image,invite_price1,invite_price2,invite_price3 FROM `shopwwi_goods` WHERE ( store_id = '1' ) AND ( goods_commonid = '100002' ) LIMIT 1000  

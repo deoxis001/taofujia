@@ -1,0 +1,124 @@
+[2015-12-19 12:44:06] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle'
+SELECT circle.*, is_hot*rand() as rand FROM `shopwwi_circle` WHERE ( circle_status = '1' ) AND ( is_hot = '1' ) ORDER BY rand desc LIMIT 3  
+[2015-12-19 12:44:06] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle'
+SELECT circle.*, is_recommend*rand() as rand FROM `shopwwi_circle` WHERE ( circle_status = '1' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 20  
+[2015-12-19 12:44:06] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle_theme'
+SELECT circle_theme.*, is_recommend*rand() as rand FROM `shopwwi_circle_theme` WHERE ( has_affix = '1' ) AND ( is_closed = '0' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 8  
+[2015-12-19 12:44:06] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle_member'
+SELECT circle_member.*, is_recommend*rand() as rand FROM `shopwwi_circle_member` WHERE ( is_recommend = '1' ) ORDER BY rand desc LIMIT 5  
+[2015-12-19 13:22:02] /shop/index.php?order=&act=store_list&cate_id=0&keyword=&area_info= ( act=store_list&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_order' doesn't exist
+SELECT store_id,count(*) as order_count FROM `shopwwi_order` WHERE ( store_id IN ('1') ) AND ( add_time > '1442726522' ) GROUP BY store_id LIMIT 1000  
+[2015-12-19 13:22:02] /shop/index.php?order=&act=store_list&cate_id=0&keyword=&area_info= ( act=store_list&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_order' doesn't exist
+SELECT store_id,count(*) as order_count FROM `shopwwi_order` WHERE ( store_id IN ('1') ) AND ( add_time > '1442726522' ) GROUP BY store_id LIMIT 1000  
+[2015-12-19 13:46:38] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle'
+SELECT circle.*, is_hot*rand() as rand FROM `shopwwi_circle` WHERE ( circle_status = '1' ) AND ( is_hot = '1' ) ORDER BY rand desc LIMIT 3  
+[2015-12-19 13:46:38] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle'
+SELECT circle.*, is_recommend*rand() as rand FROM `shopwwi_circle` WHERE ( circle_status = '1' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 20  
+[2015-12-19 13:46:38] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle_theme'
+SELECT circle_theme.*, is_recommend*rand() as rand FROM `shopwwi_circle_theme` WHERE ( has_affix = '1' ) AND ( is_closed = '0' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 8  
+[2015-12-19 13:46:38] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle_member'
+SELECT circle_member.*, is_recommend*rand() as rand FROM `shopwwi_circle_member` WHERE ( is_recommend = '1' ) ORDER BY rand desc LIMIT 5  
+[2015-12-19 19:47:32] /shop/index.php?act=taobao_import&op=index ( act=taobao_import&op=index ) 
+ERR: Db Error: Column 'goods_image' cannot be null
+INSERT  INTO `shopwwi_goods_common` (goods_name,gc_id,store_id,type_id,goods_image,goods_marketprice,goods_price,goods_commend,goods_addtime,goods_body,goods_state,goods_verify,areaid_1,areaid_2,goods_stcids,goods_serial) VALUES ('2015春季潮男裤 韩版微弹灰色修身直脚牛仔长裤男士百搭水洗做旧','1035','2','0',NULL,'135','135','0','1450525652','<p><img alt=\"\" src=\"http://image.suning.cn/uimg/sop/commodity/145477775688741427016180_x.jpg\"></p><p><img alt=\"\" src=\"http://image.suning.cn/uimg/sop/commodity/479505732181792880281630_x.jpg\"><img alt=\"\" src=\"http://image.suning.cn/uimg/sop/commodity/285333437181612719520520_x.jpg\"><img alt=\"\" src=\"http://image.suning.cn/uimg/sop/commodity/164412612153525769690900_x.jpg\"><img alt=\"\" src=\"http://image.suning.cn/uimg/sop/commodity/135363595812839282288940_x.jpg\"><img alt=\"\" src=\"http://image.suning.cn/uimg/sop/commodity/150802529810343594002186_x.jpg\"><img alt=\"\" src=\"http://image.suning.cn/uimg/sop/commodity/125872275248655061523500_x.jpg\"><img alt=\"\" src=\"http://image.suning.cn/uimg/sop/commodity/101029838687095394444950_x.jpg\"><img alt=\"\" src=\"http://image.suning.cn/uimg/sop/commodity/111703701997731515555600_x.jpg\"></p>','0','1','0','0',',0,','126981016')
+[2015-12-19 19:47:32] /shop/index.php?act=taobao_import&op=index ( act=taobao_import&op=index ) 
+ERR: Db Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2015春季潮男裤 韩版微弹灰色修身直脚牛仔长裤男士百搭水' at line 1
+INSERT  INTO `shopwwi_goods` (goods_commonid,goods_name,gc_id,store_id,goods_image,goods_marketprice,goods_price,goods_commend,goods_addtime,goods_state,goods_verify,areaid_1,areaid_2,goods_storage,goods_serial) VALUES (,'2015春季潮男裤 韩版微弹灰色修身直脚牛仔长裤男士百搭水洗做旧','1035','2',NULL,'135','135','0','1450525652','0','1','0','0','800','126981016')
+[2015-12-19 19:47:33] /shop/index.php?act=taobao_import&op=index ( act=taobao_import&op=index ) 
+ERR: Db Error: Column 'goods_image' cannot be null
+INSERT  INTO `shopwwi_goods_common` (goods_name,gc_id,store_id,type_id,goods_image,goods_marketprice,goods_price,goods_commend,goods_addtime,goods_body,goods_state,goods_verify,areaid_1,areaid_2,goods_stcids,goods_serial) VALUES ('粉红大布娃娃2015秋装新款黑色花朵印花修身长袖西装外套D14CJK0','1035','2','0',NULL,'369','369','0','1450525653','<div style=\"text-align: center;\">&nbsp;</div>
+<div style=\"text-align: center;\"><img alt=\"\" src=\"http://image.suning.cn/uimg/sop/commodity/200059809094908942441870_x.jpg\"></div>
+<div style=\"text-align: center;\"><img alt=\"\" src=\"http://image.suning.cn/uimg/sop/commodity/167661913411441330436621_x.jpg\"></div>
+<div style=\"text-align: center;\"><img alt=\"\" src=\"http://image.suning.cn/uimg/sop/commodity/107831626010700026248436_x.jpg\"></div>
+<div style=\"text-align: center;\"><img alt=\"\" src=\"http://image.suning.cn/uimg/sop/commodity/112710083253335285995740_x.jpg\"></div>
+<div style=\"text-align: center;\"><img alt=\"\" src=\"http://image.suning.cn/uimg/sop/commodity/166518266714669134787640_x.jpg\"></div>
+<div style=\"text-align: center;\"><img alt=\"\" src=\"http://image.suning.cn/uimg/sop/commodity/175277642711184888144562_x.jpg\"></div>
+<div style=\"text-align: center;\"><img alt=\"\" src=\"http://image.suning.cn/uimg/sop/commodity/102691202813435940002512_x.jpg\"></div>
+<div style=\"text-align: center;\"><img alt=\"\" src=\"http://image.suning.cn/uimg/sop/commodity/109601233436159956672000_x.jpg\"></div>
+<div style=\"text-align: center;\"><img alt=\"\" src=\"http://image.suning.cn/uimg/sop/commodity/187076611025276068130290_x.jpg\"></div>
+<div style=\"text-align: center;\"><img alt=\"\" src=\"http://image.suning.cn/uimg/sop/commodity/493191941402954854941000_x.jpg\"></div>
+<div style=\"text-align: center;\"><img alt=\"\" src=\"http://image.suning.cn/uimg/sop/commodity/951569352124168222567210_x.jpg\"></div>
+<div style=\"text-align: center;\"><img alt=\"\" src=\"http://image.suning.cn/uimg/sop/commodity/607723332864067381792300_x.jpg\"></div>
+<div style=\"text-align: center;\"><img alt=\"\" src=\"http://image.suning.cn/uimg/sop/commodity/345594120143172446738270_x.jpg\"></div>
+<div style=\"text-align: center;\"><img alt=\"\" src=\"http://image.suning.cn/uimg/sop/commodity/178702918418984781024716_x.jpg\"></div>
+<div style=\"text-align: center;\"><img alt=\"\" src=\"http://image.suning.cn/uimg/sop/commodity/629723296158241257669800_x.jpg\"></div>
+<div style=\"text-align: center;\"><img alt=\"\" src=\"http://image.suning.cn/uimg/sop/commodity/632396951126651183199650_x.jpg\"></div>
+<div style=\"text-align: center;\"><img alt=\"\" src=\"http://image.suning.cn/uimg/sop/commodity/729886782126518279289000_x.jpg\"></div>
+<div style=\"text-align: center;\"><img alt=\"\" src=\"http://image.suning.cn/uimg/sop/commodity/401648303914677731465300_x.jpg\"></div>
+<div style=\"text-align: center;\"><img alt=\"\" src=\"http://image.suning.cn/uimg/sop/commodity/130019980310912794414989_x.jpg\"></div>
+<div style=\"text-align: center;\"><img alt=\"\" src=\"http://image.suning.cn/uimg/sop/commodity/111031973110885433501400_x.jpg\"></div>
+<div style=\"text-align: center;\"><img alt=\"\" src=\"http://image.suning.cn/uimg/sop/commodity/211425519013913600478342_x.jpg\"></div>
+<div style=\"text-align: center;\"><img alt=\"\" src=\"http://image.suning.cn/uimg/sop/commodity/474258716241615339870900_x.jpg\"></div>
+<div style=\"text-align: center;\"><img alt=\"\" src=\"http://image.suning.cn/uimg/sop/commodity/147458172617514192187300_x.jpg\"></div>
+<div style=\"text-align: center;\"><img alt=\"\" src=\"http://image.suning.cn/uimg/sop/commodity/132944330715258610577779_x.jpg\"></div>
+<div style=\"text-align: center;\"><img alt=\"\" src=\"http://image.suning.cn/uimg/sop/commodity/118213724792719133164700_x.jpg\"></div>
+<div style=\"text-align: center;\"><img alt=\"\" src=\"http://image.suning.cn/uimg/sop/commodity/143138145035577386761230_x.jpg\"></div>
+<div style=\"text-align: center;\"><img alt=\"\" src=\"http://image.suning.cn/uimg/sop/commodity/107170525258691114936430_x.jpg\"></div>
+<div style=\"text-align: center;\"><img alt=\"\" src=\"http://image.suning.cn/uimg/sop/commodity/118760254239132856581800_x.jpg\"></div>','0','1','0','0',',0,','134446353')
+[2015-12-19 19:47:33] /shop/index.php?act=taobao_import&op=index ( act=taobao_import&op=index ) 
+ERR: Db Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''粉红大布娃娃2015秋装新款黑色花朵印花修身长袖西装外套D14' at line 1
+INSERT  INTO `shopwwi_goods` (goods_commonid,goods_name,gc_id,store_id,goods_image,goods_marketprice,goods_price,goods_commend,goods_addtime,goods_state,goods_verify,areaid_1,areaid_2,goods_storage,goods_serial) VALUES (,'粉红大布娃娃2015秋装新款黑色花朵印花修身长袖西装外套D14CJK0','1035','2',NULL,'369','369','0','1450525653','0','1','0','0','500','134446353')
+[2015-12-19 20:28:24] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle'
+SELECT circle.*, is_hot*rand() as rand FROM `shopwwi_circle` WHERE ( circle_status = '1' ) AND ( is_hot = '1' ) ORDER BY rand desc LIMIT 3  
+[2015-12-19 20:28:24] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle'
+SELECT circle.*, is_recommend*rand() as rand FROM `shopwwi_circle` WHERE ( circle_status = '1' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 20  
+[2015-12-19 20:28:24] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle_theme'
+SELECT circle_theme.*, is_recommend*rand() as rand FROM `shopwwi_circle_theme` WHERE ( has_affix = '1' ) AND ( is_closed = '0' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 8  
+[2015-12-19 20:28:24] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle_member'
+SELECT circle_member.*, is_recommend*rand() as rand FROM `shopwwi_circle_member` WHERE ( is_recommend = '1' ) ORDER BY rand desc LIMIT 5  
+[2015-12-19 20:31:31] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle'
+SELECT circle.*, is_hot*rand() as rand FROM `shopwwi_circle` WHERE ( circle_status = '1' ) AND ( is_hot = '1' ) ORDER BY rand desc LIMIT 3  
+[2015-12-19 20:31:31] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle'
+SELECT circle.*, is_recommend*rand() as rand FROM `shopwwi_circle` WHERE ( circle_status = '1' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 20  
+[2015-12-19 20:31:31] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle_theme'
+SELECT circle_theme.*, is_recommend*rand() as rand FROM `shopwwi_circle_theme` WHERE ( has_affix = '1' ) AND ( is_closed = '0' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 8  
+[2015-12-19 20:31:31] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle_member'
+SELECT circle_member.*, is_recommend*rand() as rand FROM `shopwwi_circle_member` WHERE ( is_recommend = '1' ) ORDER BY rand desc LIMIT 5  
+[2015-12-19 20:42:14] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle'
+SELECT circle.*, is_hot*rand() as rand FROM `shopwwi_circle` WHERE ( circle_status = '1' ) AND ( is_hot = '1' ) ORDER BY rand desc LIMIT 3  
+[2015-12-19 20:42:14] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle'
+SELECT circle.*, is_recommend*rand() as rand FROM `shopwwi_circle` WHERE ( circle_status = '1' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 20  
+[2015-12-19 20:42:14] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle_theme'
+SELECT circle_theme.*, is_recommend*rand() as rand FROM `shopwwi_circle_theme` WHERE ( has_affix = '1' ) AND ( is_closed = '0' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 8  
+[2015-12-19 20:42:14] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle_member'
+SELECT circle_member.*, is_recommend*rand() as rand FROM `shopwwi_circle_member` WHERE ( is_recommend = '1' ) ORDER BY rand desc LIMIT 5  
+[2015-12-19 20:43:55] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle'
+SELECT circle.*, is_hot*rand() as rand FROM `shopwwi_circle` WHERE ( circle_status = '1' ) AND ( is_hot = '1' ) ORDER BY rand desc LIMIT 3  
+[2015-12-19 20:43:55] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle'
+SELECT circle.*, is_recommend*rand() as rand FROM `shopwwi_circle` WHERE ( circle_status = '1' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 20  
+[2015-12-19 20:43:55] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle_theme'
+SELECT circle_theme.*, is_recommend*rand() as rand FROM `shopwwi_circle_theme` WHERE ( has_affix = '1' ) AND ( is_closed = '0' ) AND ( is_recommend = '1' ) ORDER BY rand desc LIMIT 8  
+[2015-12-19 20:43:55] /circle/ ( act=index&op=index ) 
+ERR: Db Error: Unknown table 'circle_member'
+SELECT circle_member.*, is_recommend*rand() as rand FROM `shopwwi_circle_member` WHERE ( is_recommend = '1' ) ORDER BY rand desc LIMIT 5  
+[2015-12-19 21:56:34] /shop/?act=store_list&keyword=%E5%BA%97%E9%93%BA ( act=store_list&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_order' doesn't exist
+SELECT store_id,count(*) as order_count FROM `shopwwi_order` WHERE ( store_id IN ('1') ) AND ( add_time > '1442757394' ) GROUP BY store_id LIMIT 1000  
+[2015-12-19 21:57:09] /shop/?act=store_list&keyword=%E5%BA%97%E9%93%BA&key=store_sales&order=desc ( act=store_list&op=index ) 
+ERR: Db Error: Table 'shopwwi.shopwwi_order' doesn't exist
+SELECT store_id,count(*) as order_count FROM `shopwwi_order` WHERE ( store_id IN ('1') ) AND ( add_time > '1442757429' ) GROUP BY store_id LIMIT 1000  
